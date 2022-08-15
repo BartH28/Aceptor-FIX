@@ -1,0 +1,2247 @@
+20220810-16:14:33.452 : Created session
+20220810-16:58:52.221 : Created session
+20220810-17:01:50.258 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 52211666 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:58731
+20220810-17:01:50.258 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-17:01:50.447 : Session reset: ResetOnLogon
+20220810-17:01:50.451 : Received logon
+20220810-17:01:50.464 : Responding to logon request
+20220810-17:08:10.007 : Created session
+20220810-17:08:10.874 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:58780
+20220810-17:08:10.874 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-17:08:10.894 : Session reset: ResetOnLogon
+20220810-17:08:10.911 : Received logon
+20220810-17:08:10.922 : Responding to logon request
+20220810-17:08:10.923 : MsgSeqNum too high, expecting 1 but received 14
+20220810-17:08:10.925 : Sent ResendRequest FROM: 1 TO: 0
+20220810-17:08:38.376 : MsgSeqNum too high, expecting 1 but received 15
+20220810-17:08:38.376 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-17:08:47.452 : Sent test request TEST
+20220810-17:08:47.455 : MsgSeqNum too high, expecting 1 but received 16
+20220810-17:08:47.455 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-17:08:53.306 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:58780): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220810-17:08:53.312 : Session reset: ResetOnDisconnect
+20220810-17:08:58.471 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 13061901 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:58796
+20220810-17:08:58.472 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-17:08:58.474 : Session reset: ResetOnLogon
+20220810-17:08:58.475 : Received logon
+20220810-17:08:58.475 : Responding to logon request
+20220810-17:08:58.475 : MsgSeqNum too high, expecting 1 but received 17
+20220810-17:08:58.476 : Sent ResendRequest FROM: 1 TO: 0
+20220810-17:09:02.375 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:58796): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220810-17:09:13.329 : Session reset: ResetOnDisconnect
+20220810-17:09:13.330 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 28589617 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:58798
+20220810-17:09:13.330 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-17:09:13.342 : Session reset: ResetOnLogon
+20220810-17:09:13.343 : Received logon
+20220810-17:09:13.346 : Responding to logon request
+20220810-17:09:13.346 : MsgSeqNum too high, expecting 1 but received 18
+20220810-17:09:13.349 : Sent ResendRequest FROM: 1 TO: 0
+20220810-17:09:38.391 : MsgSeqNum too high, expecting 1 but received 19
+20220810-17:09:38.391 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-17:09:49.458 : Sent test request TEST
+20220810-17:09:49.462 : MsgSeqNum too high, expecting 1 but received 20
+20220810-17:09:49.462 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-17:10:04.127 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:58798): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220810-17:10:04.132 : Session reset: ResetOnDisconnect
+20220810-22:34:17.494 : Created session
+20220810-22:36:04.045 : Created session
+20220810-22:45:27.372 : Created session
+20220810-22:52:59.598 : Created session
+20220810-22:55:22.273 : Created session
+20220810-22:56:10.205 : Created session
+20220810-22:56:56.443 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 65934242 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52341
+20220810-22:56:56.443 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-22:56:56.700 : Session reset: ResetOnLogon
+20220810-22:56:56.715 : Received logon
+20220810-22:56:56.724 : Responding to logon request
+20220810-22:56:56.725 : MsgSeqNum too high, expecting 1 but received 28
+20220810-22:56:56.747 : Sent ResendRequest FROM: 1 TO: 0
+20220810-22:57:10.544 : MsgSeqNum too high, expecting 1 but received 29
+20220810-22:57:10.544 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-22:58:03.998 : MsgSeqNum too high, expecting 1 but received 30
+20220810-22:58:03.998 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-22:58:04.000 : Sent test request TEST
+20220810-22:58:04.002 : MsgSeqNum too high, expecting 1 but received 31
+20220810-22:58:04.002 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-22:58:10.360 : Created session
+20220810-22:58:18.730 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52355
+20220810-22:58:18.730 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-22:58:18.751 : Session reset: ResetOnLogon
+20220810-22:58:18.759 : Received logon
+20220810-22:58:18.767 : Responding to logon request
+20220810-22:58:18.768 : MsgSeqNum too high, expecting 1 but received 32
+20220810-22:58:18.770 : Sent ResendRequest FROM: 1 TO: 0
+20220810-22:58:40.567 : MsgSeqNum too high, expecting 1 but received 33
+20220810-22:58:40.567 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-22:58:55.690 : Sent test request TEST
+20220810-22:58:55.692 : MsgSeqNum too high, expecting 1 but received 34
+20220810-22:58:55.692 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-22:59:03.183 : Created session
+20220810-22:59:13.069 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52364
+20220810-22:59:13.069 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-22:59:13.090 : Session reset: ResetOnLogon
+20220810-22:59:13.099 : Received logon
+20220810-22:59:13.106 : Responding to logon request
+20220810-22:59:13.107 : MsgSeqNum too high, expecting 1 but received 35
+20220810-22:59:13.109 : Sent ResendRequest FROM: 1 TO: 0
+20220810-22:59:36.389 : Created session
+20220810-22:59:36.953 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52375
+20220810-22:59:36.953 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-22:59:36.974 : Session reset: ResetOnLogon
+20220810-22:59:37.004 : Received logon
+20220810-22:59:37.016 : Responding to logon request
+20220810-22:59:37.017 : MsgSeqNum too high, expecting 1 but received 36
+20220810-22:59:37.019 : Sent ResendRequest FROM: 1 TO: 0
+20220810-22:59:40.580 : MsgSeqNum too high, expecting 1 but received 37
+20220810-22:59:40.580 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:00:10.582 : MsgSeqNum too high, expecting 1 but received 38
+20220810-23:00:10.582 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:00:13.608 : Sent test request TEST
+20220810-23:00:13.609 : MsgSeqNum too high, expecting 1 but received 39
+20220810-23:00:13.609 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:00:40.588 : MsgSeqNum too high, expecting 1 but received 40
+20220810-23:00:40.588 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:00:49.655 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:00:49.671 : Session reset: ResetOnDisconnect
+20220810-23:00:49.887 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 48649253 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52395
+20220810-23:00:49.887 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:00:49.890 : Session reset: ResetOnLogon
+20220810-23:00:49.890 : Received logon
+20220810-23:00:49.891 : Responding to logon request
+20220810-23:00:49.891 : MsgSeqNum too high, expecting 1 but received 41
+20220810-23:00:49.896 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:01:10.595 : MsgSeqNum too high, expecting 1 but received 42
+20220810-23:01:10.595 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:01:26.751 : Sent test request TEST
+20220810-23:01:26.752 : MsgSeqNum too high, expecting 1 but received 43
+20220810-23:01:26.752 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:01:40.609 : MsgSeqNum too high, expecting 1 but received 44
+20220810-23:01:40.609 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:02:02.809 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:02:02.814 : Session reset: ResetOnDisconnect
+20220810-23:02:03.022 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 16695065 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52398
+20220810-23:02:03.022 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:02:03.025 : Session reset: ResetOnLogon
+20220810-23:02:03.025 : Received logon
+20220810-23:02:03.026 : Responding to logon request
+20220810-23:02:03.026 : MsgSeqNum too high, expecting 1 but received 45
+20220810-23:02:03.026 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:02:10.621 : MsgSeqNum too high, expecting 1 but received 46
+20220810-23:02:10.621 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:02:39.902 : Sent test request TEST
+20220810-23:02:39.904 : MsgSeqNum too high, expecting 1 but received 47
+20220810-23:02:39.904 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:02:40.626 : MsgSeqNum too high, expecting 1 but received 48
+20220810-23:02:40.626 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:03:10.626 : MsgSeqNum too high, expecting 1 but received 49
+20220810-23:03:10.626 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:03:15.686 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:03:15.695 : Session reset: ResetOnDisconnect
+20220810-23:03:15.898 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 258006 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52400
+20220810-23:03:15.898 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:03:15.901 : Session reset: ResetOnLogon
+20220810-23:03:15.901 : Received logon
+20220810-23:03:15.902 : Responding to logon request
+20220810-23:03:15.902 : MsgSeqNum too high, expecting 1 but received 50
+20220810-23:03:15.903 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:03:40.631 : MsgSeqNum too high, expecting 1 but received 51
+20220810-23:03:40.631 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:03:52.713 : Sent test request TEST
+20220810-23:03:52.716 : MsgSeqNum too high, expecting 1 but received 52
+20220810-23:03:52.716 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:04:10.637 : MsgSeqNum too high, expecting 1 but received 53
+20220810-23:04:10.637 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:04:28.805 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:04:28.811 : Session reset: ResetOnDisconnect
+20220810-23:04:29.017 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 11891108 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52401
+20220810-23:04:29.017 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:04:29.019 : Session reset: ResetOnLogon
+20220810-23:04:29.020 : Received logon
+20220810-23:04:29.022 : Responding to logon request
+20220810-23:04:29.022 : MsgSeqNum too high, expecting 1 but received 54
+20220810-23:04:29.023 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:04:40.642 : MsgSeqNum too high, expecting 1 but received 55
+20220810-23:04:40.642 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:05:05.866 : Sent test request TEST
+20220810-23:05:05.868 : MsgSeqNum too high, expecting 1 but received 56
+20220810-23:05:05.868 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:05:10.650 : MsgSeqNum too high, expecting 1 but received 57
+20220810-23:05:10.650 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:05:40.654 : MsgSeqNum too high, expecting 1 but received 58
+20220810-23:05:40.654 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:05:41.666 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:05:41.670 : Session reset: ResetOnDisconnect
+20220810-23:05:41.875 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 36120876 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52404
+20220810-23:05:41.875 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:05:41.878 : Session reset: ResetOnLogon
+20220810-23:05:41.879 : Received logon
+20220810-23:05:41.880 : Responding to logon request
+20220810-23:05:41.880 : MsgSeqNum too high, expecting 1 but received 59
+20220810-23:05:41.881 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:06:10.664 : MsgSeqNum too high, expecting 1 but received 60
+20220810-23:06:10.664 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:06:18.735 : Sent test request TEST
+20220810-23:06:18.737 : MsgSeqNum too high, expecting 1 but received 61
+20220810-23:06:18.737 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:06:40.668 : MsgSeqNum too high, expecting 1 but received 62
+20220810-23:06:40.668 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:06:54.788 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:06:54.792 : Session reset: ResetOnDisconnect
+20220810-23:06:55.001 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 58608331 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52405
+20220810-23:06:55.001 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:06:55.004 : Session reset: ResetOnLogon
+20220810-23:06:55.004 : Received logon
+20220810-23:06:55.006 : Responding to logon request
+20220810-23:06:55.006 : MsgSeqNum too high, expecting 1 but received 63
+20220810-23:06:55.006 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:07:10.674 : MsgSeqNum too high, expecting 1 but received 64
+20220810-23:07:10.674 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:07:31.862 : Sent test request TEST
+20220810-23:07:31.864 : MsgSeqNum too high, expecting 1 but received 65
+20220810-23:07:31.864 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:07:40.691 : MsgSeqNum too high, expecting 1 but received 66
+20220810-23:07:40.691 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:08:07.923 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:08:07.928 : Session reset: ResetOnDisconnect
+20220810-23:08:08.138 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 15458568 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52407
+20220810-23:08:08.138 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:08:08.141 : Session reset: ResetOnLogon
+20220810-23:08:08.141 : Received logon
+20220810-23:08:08.143 : Responding to logon request
+20220810-23:08:08.143 : MsgSeqNum too high, expecting 1 but received 67
+20220810-23:08:08.143 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:08:10.700 : MsgSeqNum too high, expecting 1 but received 68
+20220810-23:08:10.700 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:08:40.709 : MsgSeqNum too high, expecting 1 but received 69
+20220810-23:08:40.709 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:08:44.731 : Sent test request TEST
+20220810-23:08:44.735 : MsgSeqNum too high, expecting 1 but received 70
+20220810-23:08:44.735 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:09:10.724 : MsgSeqNum too high, expecting 1 but received 71
+20220810-23:09:10.724 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:09:20.837 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:09:20.841 : Session reset: ResetOnDisconnect
+20220810-23:09:21.060 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20727489 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52408
+20220810-23:09:21.060 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:09:21.063 : Session reset: ResetOnLogon
+20220810-23:09:21.064 : Received logon
+20220810-23:09:21.066 : Responding to logon request
+20220810-23:09:21.066 : MsgSeqNum too high, expecting 1 but received 72
+20220810-23:09:21.066 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:09:40.736 : MsgSeqNum too high, expecting 1 but received 73
+20220810-23:09:40.736 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:09:57.857 : Sent test request TEST
+20220810-23:09:57.861 : MsgSeqNum too high, expecting 1 but received 74
+20220810-23:09:57.861 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:10:10.748 : MsgSeqNum too high, expecting 1 but received 75
+20220810-23:10:10.749 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:10:33.966 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:10:33.970 : Session reset: ResetOnDisconnect
+20220810-23:10:34.171 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 65636974 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52416
+20220810-23:10:34.171 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:10:34.175 : Session reset: ResetOnLogon
+20220810-23:10:34.175 : Received logon
+20220810-23:10:34.177 : Responding to logon request
+20220810-23:10:34.177 : MsgSeqNum too high, expecting 1 but received 76
+20220810-23:10:34.178 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:10:40.758 : MsgSeqNum too high, expecting 1 but received 77
+20220810-23:10:40.758 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:11:10.773 : MsgSeqNum too high, expecting 1 but received 78
+20220810-23:11:10.773 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:11:10.774 : Sent test request TEST
+20220810-23:11:10.779 : MsgSeqNum too high, expecting 1 but received 79
+20220810-23:11:10.779 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:11:40.779 : MsgSeqNum too high, expecting 1 but received 80
+20220810-23:11:40.779 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:11:46.844 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:11:46.848 : Session reset: ResetOnDisconnect
+20220810-23:11:47.056 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 31833051 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52417
+20220810-23:11:47.056 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:11:47.060 : Session reset: ResetOnLogon
+20220810-23:11:47.061 : Received logon
+20220810-23:11:47.062 : Responding to logon request
+20220810-23:11:47.062 : MsgSeqNum too high, expecting 1 but received 81
+20220810-23:11:47.063 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:12:10.782 : MsgSeqNum too high, expecting 1 but received 82
+20220810-23:12:10.782 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:12:23.904 : Sent test request TEST
+20220810-23:12:23.909 : MsgSeqNum too high, expecting 1 but received 83
+20220810-23:12:23.909 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:12:40.798 : MsgSeqNum too high, expecting 1 but received 84
+20220810-23:12:40.798 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:12:59.958 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:12:59.961 : Session reset: ResetOnDisconnect
+20220810-23:13:00.171 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 44449630 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52420
+20220810-23:13:00.171 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:13:00.174 : Session reset: ResetOnLogon
+20220810-23:13:00.178 : Received logon
+20220810-23:13:00.179 : Responding to logon request
+20220810-23:13:00.179 : MsgSeqNum too high, expecting 1 but received 85
+20220810-23:13:00.181 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:13:10.800 : MsgSeqNum too high, expecting 1 but received 86
+20220810-23:13:10.800 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:13:36.980 : Sent test request TEST
+20220810-23:13:36.982 : MsgSeqNum too high, expecting 1 but received 87
+20220810-23:13:36.982 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:13:40.812 : MsgSeqNum too high, expecting 1 but received 88
+20220810-23:13:40.812 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:14:10.827 : MsgSeqNum too high, expecting 1 but received 89
+20220810-23:14:10.827 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:14:12.846 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:14:12.850 : Session reset: ResetOnDisconnect
+20220810-23:14:13.055 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 7168959 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52422
+20220810-23:14:13.055 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:14:13.058 : Session reset: ResetOnLogon
+20220810-23:14:13.058 : Received logon
+20220810-23:14:13.060 : Responding to logon request
+20220810-23:14:13.060 : MsgSeqNum too high, expecting 1 but received 90
+20220810-23:14:13.061 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:14:40.839 : MsgSeqNum too high, expecting 1 but received 91
+20220810-23:14:40.839 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:14:49.937 : Sent test request TEST
+20220810-23:14:49.939 : MsgSeqNum too high, expecting 1 but received 92
+20220810-23:14:49.939 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:15:10.849 : MsgSeqNum too high, expecting 1 but received 93
+20220810-23:15:10.849 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:15:26.031 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:15:26.034 : Session reset: ResetOnDisconnect
+20220810-23:15:26.242 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20877185 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52433
+20220810-23:15:26.242 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:15:26.244 : Session reset: ResetOnLogon
+20220810-23:15:26.245 : Received logon
+20220810-23:15:26.246 : Responding to logon request
+20220810-23:15:26.246 : MsgSeqNum too high, expecting 1 but received 94
+20220810-23:15:26.247 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:15:40.853 : MsgSeqNum too high, expecting 1 but received 95
+20220810-23:15:40.853 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:16:03.066 : Sent test request TEST
+20220810-23:16:03.068 : MsgSeqNum too high, expecting 1 but received 96
+20220810-23:16:03.068 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:16:10.856 : MsgSeqNum too high, expecting 1 but received 97
+20220810-23:16:10.856 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:16:39.113 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:16:39.117 : Session reset: ResetOnDisconnect
+20220810-23:16:39.325 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 18444552 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52438
+20220810-23:16:39.325 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:16:39.327 : Session reset: ResetOnLogon
+20220810-23:16:39.328 : Received logon
+20220810-23:16:39.330 : Responding to logon request
+20220810-23:16:39.330 : MsgSeqNum too high, expecting 1 but received 98
+20220810-23:16:39.331 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:16:40.867 : MsgSeqNum too high, expecting 1 but received 99
+20220810-23:16:40.867 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:17:10.880 : MsgSeqNum too high, expecting 1 but received 100
+20220810-23:17:10.880 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:17:15.937 : Sent test request TEST
+20220810-23:17:15.940 : MsgSeqNum too high, expecting 1 but received 101
+20220810-23:17:15.941 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:17:40.896 : MsgSeqNum too high, expecting 1 but received 102
+20220810-23:17:40.896 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:17:52.022 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:17:52.031 : Session reset: ResetOnDisconnect
+20220810-23:17:52.242 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 10357457 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52444
+20220810-23:17:52.242 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:17:52.246 : Session reset: ResetOnLogon
+20220810-23:17:52.246 : Received logon
+20220810-23:17:52.250 : Responding to logon request
+20220810-23:17:52.250 : MsgSeqNum too high, expecting 1 but received 103
+20220810-23:17:52.253 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:18:10.911 : MsgSeqNum too high, expecting 1 but received 104
+20220810-23:18:10.911 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:18:29.097 : Sent test request TEST
+20220810-23:18:29.099 : MsgSeqNum too high, expecting 1 but received 105
+20220810-23:18:29.099 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:18:40.929 : MsgSeqNum too high, expecting 1 but received 106
+20220810-23:18:40.929 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:19:05.140 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:19:05.144 : Session reset: ResetOnDisconnect
+20220810-23:19:05.350 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 62605524 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52447
+20220810-23:19:05.350 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:19:05.353 : Session reset: ResetOnLogon
+20220810-23:19:05.353 : Received logon
+20220810-23:19:05.355 : Responding to logon request
+20220810-23:19:05.355 : MsgSeqNum too high, expecting 1 but received 107
+20220810-23:19:05.356 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:19:10.936 : MsgSeqNum too high, expecting 1 but received 108
+20220810-23:19:10.936 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:19:40.951 : MsgSeqNum too high, expecting 1 but received 109
+20220810-23:19:40.951 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:19:41.967 : Sent test request TEST
+20220810-23:19:41.970 : MsgSeqNum too high, expecting 1 but received 110
+20220810-23:19:41.970 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:20:10.966 : MsgSeqNum too high, expecting 1 but received 111
+20220810-23:20:10.966 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:20:18.061 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:20:18.066 : Session reset: ResetOnDisconnect
+20220810-23:20:18.270 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 46756761 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52450
+20220810-23:20:18.270 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:20:18.274 : Session reset: ResetOnLogon
+20220810-23:20:18.274 : Received logon
+20220810-23:20:18.276 : Responding to logon request
+20220810-23:20:18.276 : MsgSeqNum too high, expecting 1 but received 112
+20220810-23:20:18.277 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:20:40.977 : MsgSeqNum too high, expecting 1 but received 113
+20220810-23:20:40.977 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:20:55.116 : Sent test request TEST
+20220810-23:20:55.118 : MsgSeqNum too high, expecting 1 but received 114
+20220810-23:20:55.118 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:21:10.979 : MsgSeqNum too high, expecting 1 but received 115
+20220810-23:21:10.979 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:21:31.150 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:21:31.155 : Session reset: ResetOnDisconnect
+20220810-23:21:31.372 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 40370948 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52454
+20220810-23:21:31.372 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:21:31.375 : Session reset: ResetOnLogon
+20220810-23:21:31.375 : Received logon
+20220810-23:21:31.377 : Responding to logon request
+20220810-23:21:31.377 : MsgSeqNum too high, expecting 1 but received 116
+20220810-23:21:31.378 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:21:40.984 : MsgSeqNum too high, expecting 1 but received 117
+20220810-23:21:40.984 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:22:08.233 : Sent test request TEST
+20220810-23:22:08.235 : MsgSeqNum too high, expecting 1 but received 118
+20220810-23:22:08.235 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:22:11.001 : MsgSeqNum too high, expecting 1 but received 119
+20220810-23:22:11.001 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:22:41.012 : MsgSeqNum too high, expecting 1 but received 120
+20220810-23:22:41.012 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:22:44.051 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:22:44.057 : Session reset: ResetOnDisconnect
+20220810-23:22:44.258 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 4800104 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52455
+20220810-23:22:44.258 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:22:44.261 : Session reset: ResetOnLogon
+20220810-23:22:44.261 : Received logon
+20220810-23:22:44.263 : Responding to logon request
+20220810-23:22:44.263 : MsgSeqNum too high, expecting 1 but received 121
+20220810-23:22:44.264 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:23:11.014 : MsgSeqNum too high, expecting 1 but received 122
+20220810-23:23:11.014 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:23:21.114 : Sent test request TEST
+20220810-23:23:21.118 : MsgSeqNum too high, expecting 1 but received 123
+20220810-23:23:21.118 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:23:41.025 : MsgSeqNum too high, expecting 1 but received 124
+20220810-23:23:41.025 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:23:57.179 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:23:57.183 : Session reset: ResetOnDisconnect
+20220810-23:23:57.389 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 5241747 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52456
+20220810-23:23:57.389 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:23:57.392 : Session reset: ResetOnLogon
+20220810-23:23:57.392 : Received logon
+20220810-23:23:57.394 : Responding to logon request
+20220810-23:23:57.394 : MsgSeqNum too high, expecting 1 but received 125
+20220810-23:23:57.395 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:24:11.030 : MsgSeqNum too high, expecting 1 but received 126
+20220810-23:24:11.030 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:24:34.206 : Sent test request TEST
+20220810-23:24:34.208 : MsgSeqNum too high, expecting 1 but received 127
+20220810-23:24:34.208 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:24:41.048 : MsgSeqNum too high, expecting 1 but received 128
+20220810-23:24:41.048 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:25:10.295 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:25:10.301 : Session reset: ResetOnDisconnect
+20220810-23:25:10.512 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 27423932 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52458
+20220810-23:25:10.512 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:25:10.515 : Session reset: ResetOnLogon
+20220810-23:25:10.516 : Received logon
+20220810-23:25:10.517 : Responding to logon request
+20220810-23:25:10.517 : MsgSeqNum too high, expecting 1 but received 129
+20220810-23:25:10.518 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:25:11.056 : MsgSeqNum too high, expecting 1 but received 130
+20220810-23:25:11.056 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:25:41.067 : MsgSeqNum too high, expecting 1 but received 131
+20220810-23:25:41.067 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:25:47.142 : Sent test request TEST
+20220810-23:25:47.145 : MsgSeqNum too high, expecting 1 but received 132
+20220810-23:25:47.145 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:26:11.077 : MsgSeqNum too high, expecting 1 but received 133
+20220810-23:26:11.077 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:26:23.172 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:26:23.176 : Session reset: ResetOnDisconnect
+20220810-23:26:23.385 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 43787790 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52462
+20220810-23:26:23.385 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:26:23.387 : Session reset: ResetOnLogon
+20220810-23:26:23.388 : Received logon
+20220810-23:26:23.390 : Responding to logon request
+20220810-23:26:23.390 : MsgSeqNum too high, expecting 1 but received 134
+20220810-23:26:23.390 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:26:41.085 : MsgSeqNum too high, expecting 1 but received 135
+20220810-23:26:41.085 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:27:00.274 : Sent test request TEST
+20220810-23:27:00.277 : MsgSeqNum too high, expecting 1 but received 136
+20220810-23:27:00.277 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:27:11.087 : MsgSeqNum too high, expecting 1 but received 137
+20220810-23:27:11.087 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:27:36.364 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:27:36.369 : Session reset: ResetOnDisconnect
+20220810-23:27:36.580 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 63873911 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52463
+20220810-23:27:36.580 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:27:36.583 : Session reset: ResetOnLogon
+20220810-23:27:36.583 : Received logon
+20220810-23:27:36.585 : Responding to logon request
+20220810-23:27:36.585 : MsgSeqNum too high, expecting 1 but received 138
+20220810-23:27:36.586 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:27:41.089 : MsgSeqNum too high, expecting 1 but received 139
+20220810-23:27:41.089 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:28:11.104 : MsgSeqNum too high, expecting 1 but received 140
+20220810-23:28:11.104 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:28:13.121 : Sent test request TEST
+20220810-23:28:13.125 : MsgSeqNum too high, expecting 1 but received 141
+20220810-23:28:13.125 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:28:41.108 : MsgSeqNum too high, expecting 1 but received 142
+20220810-23:28:41.108 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:28:49.189 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:28:49.193 : Session reset: ResetOnDisconnect
+20220810-23:28:49.391 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 64605784 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52465
+20220810-23:28:49.391 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:28:49.394 : Session reset: ResetOnLogon
+20220810-23:28:49.394 : Received logon
+20220810-23:28:49.396 : Responding to logon request
+20220810-23:28:49.396 : MsgSeqNum too high, expecting 1 but received 143
+20220810-23:28:49.396 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:29:11.122 : MsgSeqNum too high, expecting 1 but received 144
+20220810-23:29:11.122 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:29:26.284 : Sent test request TEST
+20220810-23:29:26.286 : MsgSeqNum too high, expecting 1 but received 145
+20220810-23:29:26.286 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:29:41.132 : MsgSeqNum too high, expecting 1 but received 146
+20220810-23:29:41.132 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:30:02.353 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:30:02.358 : Session reset: ResetOnDisconnect
+20220810-23:30:02.551 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 67050681 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49774
+20220810-23:30:02.551 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:30:02.556 : Session reset: ResetOnLogon
+20220810-23:30:02.556 : Received logon
+20220810-23:30:02.560 : Responding to logon request
+20220810-23:30:02.560 : MsgSeqNum too high, expecting 1 but received 147
+20220810-23:30:02.564 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:30:11.142 : MsgSeqNum too high, expecting 1 but received 148
+20220810-23:30:11.142 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:30:39.421 : Sent test request TEST
+20220810-23:30:39.423 : MsgSeqNum too high, expecting 1 but received 149
+20220810-23:30:39.423 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:30:41.152 : MsgSeqNum too high, expecting 1 but received 150
+20220810-23:30:41.152 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:31:11.161 : MsgSeqNum too high, expecting 1 but received 151
+20220810-23:31:11.161 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:31:15.208 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:31:15.212 : Session reset: ResetOnDisconnect
+20220810-23:31:15.416 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 14133021 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49783
+20220810-23:31:15.416 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:31:15.418 : Session reset: ResetOnLogon
+20220810-23:31:15.419 : Received logon
+20220810-23:31:15.421 : Responding to logon request
+20220810-23:31:15.421 : MsgSeqNum too high, expecting 1 but received 152
+20220810-23:31:15.421 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:31:41.164 : MsgSeqNum too high, expecting 1 but received 153
+20220810-23:31:41.164 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:31:52.280 : Sent test request TEST
+20220810-23:31:52.281 : MsgSeqNum too high, expecting 1 but received 154
+20220810-23:31:52.281 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:32:11.176 : MsgSeqNum too high, expecting 1 but received 155
+20220810-23:32:11.176 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:32:28.298 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:34:19.428 : Created session
+20220810-23:34:20.216 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62598
+20220810-23:34:20.216 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-23:34:20.238 : Session reset: ResetOnLogon
+20220810-23:34:20.249 : Received logon
+20220810-23:34:20.257 : Responding to logon request
+20220810-23:34:20.258 : MsgSeqNum too high, expecting 1 but received 160
+20220810-23:34:20.260 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:34:31.244 : Message 161 Rejected: Invalid MsgType (Field=35)
+20220810-23:34:41.222 : MsgSeqNum too high, expecting 1 but received 162
+20220810-23:34:41.222 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:40:32.772 : Created session
+20220810-23:40:33.477 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62672
+20220810-23:40:33.477 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-23:40:33.497 : Session reset: ResetOnLogon
+20220810-23:40:33.505 : Received logon
+20220810-23:40:33.514 : Responding to logon request
+20220810-23:40:33.515 : MsgSeqNum too high, expecting 1 but received 175
+20220810-23:40:33.518 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:40:41.347 : MsgSeqNum too high, expecting 1 but received 176
+20220810-23:40:41.347 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:41:09.611 : Sent test request TEST
+20220810-23:41:09.613 : MsgSeqNum too high, expecting 1 but received 177
+20220810-23:41:09.613 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:41:11.359 : MsgSeqNum too high, expecting 1 but received 178
+20220810-23:41:11.359 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:41:41.360 : MsgSeqNum too high, expecting 1 but received 179
+20220810-23:41:41.360 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:41:46.977 : Created session
+20220810-23:41:47.681 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62677
+20220810-23:41:47.681 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-23:41:47.702 : Session reset: ResetOnLogon
+20220810-23:41:47.711 : Received logon
+20220810-23:41:47.728 : Responding to logon request
+20220810-23:41:47.729 : MsgSeqNum too high, expecting 1 but received 180
+20220810-23:41:47.744 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:42:11.367 : MsgSeqNum too high, expecting 1 but received 181
+20220810-23:42:11.367 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:42:24.492 : Sent test request TEST
+20220810-23:42:24.493 : MsgSeqNum too high, expecting 1 but received 182
+20220810-23:42:24.493 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:42:41.368 : MsgSeqNum too high, expecting 1 but received 183
+20220810-23:42:41.368 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:43:00.536 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:43:00.540 : Session reset: ResetOnDisconnect
+20220810-23:43:00.770 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20057588 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62720
+20220810-23:43:00.770 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:43:00.773 : Session reset: ResetOnLogon
+20220810-23:43:00.775 : Received logon
+20220810-23:43:00.780 : Responding to logon request
+20220810-23:43:00.780 : MsgSeqNum too high, expecting 1 but received 184
+20220810-23:43:00.784 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:43:11.373 : MsgSeqNum too high, expecting 1 but received 185
+20220810-23:43:11.374 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:43:37.607 : Sent test request TEST
+20220810-23:43:37.608 : MsgSeqNum too high, expecting 1 but received 186
+20220810-23:43:37.608 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:43:41.387 : MsgSeqNum too high, expecting 1 but received 187
+20220810-23:43:41.387 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:44:11.391 : MsgSeqNum too high, expecting 1 but received 188
+20220810-23:44:11.391 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:44:13.406 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:44:13.411 : Session reset: ResetOnDisconnect
+20220810-23:44:13.636 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 16695065 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62756
+20220810-23:44:13.636 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:44:13.641 : Session reset: ResetOnLogon
+20220810-23:44:13.643 : Received logon
+20220810-23:44:13.644 : Responding to logon request
+20220810-23:44:13.644 : MsgSeqNum too high, expecting 1 but received 189
+20220810-23:44:13.644 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:44:41.397 : MsgSeqNum too high, expecting 1 but received 190
+20220810-23:44:41.397 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:44:50.449 : Sent test request TEST
+20220810-23:44:50.451 : MsgSeqNum too high, expecting 1 but received 191
+20220810-23:44:50.451 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:45:11.413 : MsgSeqNum too high, expecting 1 but received 192
+20220810-23:45:11.413 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:45:26.563 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:45:26.568 : Session reset: ResetOnDisconnect
+20220810-23:45:26.805 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 55365055 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62771
+20220810-23:45:26.805 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:45:26.808 : Session reset: ResetOnLogon
+20220810-23:45:26.808 : Received logon
+20220810-23:45:26.809 : Responding to logon request
+20220810-23:45:26.809 : MsgSeqNum too high, expecting 1 but received 193
+20220810-23:45:26.809 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:45:41.426 : MsgSeqNum too high, expecting 1 but received 194
+20220810-23:45:41.426 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:46:03.620 : Sent test request TEST
+20220810-23:46:03.621 : MsgSeqNum too high, expecting 1 but received 195
+20220810-23:46:03.621 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:46:11.439 : MsgSeqNum too high, expecting 1 but received 196
+20220810-23:46:11.439 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:46:39.695 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:46:39.699 : Session reset: ResetOnDisconnect
+20220810-23:46:39.920 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 11891108 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62779
+20220810-23:46:39.920 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:46:39.924 : Session reset: ResetOnLogon
+20220810-23:46:39.925 : Received logon
+20220810-23:46:39.928 : Responding to logon request
+20220810-23:46:39.928 : MsgSeqNum too high, expecting 1 but received 197
+20220810-23:46:39.930 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:46:41.445 : MsgSeqNum too high, expecting 1 but received 198
+20220810-23:46:41.445 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:47:11.451 : MsgSeqNum too high, expecting 1 but received 199
+20220810-23:47:11.451 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:47:16.505 : Sent test request TEST
+20220810-23:47:16.508 : MsgSeqNum too high, expecting 1 but received 200
+20220810-23:47:16.508 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:47:41.466 : MsgSeqNum too high, expecting 1 but received 201
+20220810-23:47:41.466 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:47:52.549 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:47:52.558 : Session reset: ResetOnDisconnect
+20220810-23:47:52.769 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 36120876 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62792
+20220810-23:47:52.769 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:47:52.771 : Session reset: ResetOnLogon
+20220810-23:47:52.772 : Received logon
+20220810-23:47:52.775 : Responding to logon request
+20220810-23:47:52.775 : MsgSeqNum too high, expecting 1 but received 202
+20220810-23:47:52.775 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:48:11.482 : MsgSeqNum too high, expecting 1 but received 203
+20220810-23:48:11.482 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:48:29.645 : Sent test request TEST
+20220810-23:48:29.647 : MsgSeqNum too high, expecting 1 but received 204
+20220810-23:48:29.647 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:48:41.494 : MsgSeqNum too high, expecting 1 but received 205
+20220810-23:48:41.494 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:49:05.717 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:49:05.721 : Session reset: ResetOnDisconnect
+20220810-23:49:05.927 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 7328482 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62796
+20220810-23:49:05.927 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:49:05.930 : Session reset: ResetOnLogon
+20220810-23:49:05.930 : Received logon
+20220810-23:49:05.932 : Responding to logon request
+20220810-23:49:05.932 : MsgSeqNum too high, expecting 1 but received 206
+20220810-23:49:05.932 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:49:11.498 : MsgSeqNum too high, expecting 1 but received 207
+20220810-23:49:11.498 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:49:41.509 : MsgSeqNum too high, expecting 1 but received 208
+20220810-23:49:41.509 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:49:42.518 : Sent test request TEST
+20220810-23:49:42.521 : MsgSeqNum too high, expecting 1 but received 209
+20220810-23:49:42.521 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:50:11.512 : MsgSeqNum too high, expecting 1 but received 210
+20220810-23:50:11.512 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:50:18.566 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:50:18.574 : Session reset: ResetOnDisconnect
+20220810-23:50:18.799 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 64105178 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62803
+20220810-23:50:18.799 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:50:18.802 : Session reset: ResetOnLogon
+20220810-23:50:18.803 : Received logon
+20220810-23:50:18.805 : Responding to logon request
+20220810-23:50:18.805 : MsgSeqNum too high, expecting 1 but received 211
+20220810-23:50:18.805 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:50:41.514 : MsgSeqNum too high, expecting 1 but received 212
+20220810-23:50:41.514 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:50:55.619 : Sent test request TEST
+20220810-23:50:55.620 : MsgSeqNum too high, expecting 1 but received 213
+20220810-23:50:55.620 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:51:11.531 : MsgSeqNum too high, expecting 1 but received 214
+20220810-23:51:11.531 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:51:31.705 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:51:31.710 : Session reset: ResetOnDisconnect
+20220810-23:51:31.924 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 62677815 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62809
+20220810-23:51:31.924 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:51:31.927 : Session reset: ResetOnLogon
+20220810-23:51:31.927 : Received logon
+20220810-23:51:31.929 : Responding to logon request
+20220810-23:51:31.929 : MsgSeqNum too high, expecting 1 but received 215
+20220810-23:51:31.930 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:51:41.547 : MsgSeqNum too high, expecting 1 but received 216
+20220810-23:51:41.547 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:52:08.816 : Sent test request TEST
+20220810-23:52:08.818 : MsgSeqNum too high, expecting 1 but received 217
+20220810-23:52:08.818 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:52:11.564 : MsgSeqNum too high, expecting 1 but received 218
+20220810-23:52:11.564 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:52:41.567 : MsgSeqNum too high, expecting 1 but received 219
+20220810-23:52:41.567 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:52:44.586 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:52:44.600 : Session reset: ResetOnDisconnect
+20220810-23:52:44.831 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 10053861 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62812
+20220810-23:52:44.831 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:52:44.835 : Session reset: ResetOnLogon
+20220810-23:52:44.835 : Received logon
+20220810-23:52:44.837 : Responding to logon request
+20220810-23:52:44.837 : MsgSeqNum too high, expecting 1 but received 220
+20220810-23:52:44.837 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:53:11.578 : MsgSeqNum too high, expecting 1 but received 221
+20220810-23:53:11.578 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:53:21.938 : Created session
+20220810-23:53:22.473 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62814
+20220810-23:53:22.474 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-23:53:22.501 : Session reset: ResetOnLogon
+20220810-23:53:22.511 : Received logon
+20220810-23:53:22.523 : Responding to logon request
+20220810-23:53:22.523 : MsgSeqNum too high, expecting 1 but received 222
+20220810-23:53:22.525 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:53:41.592 : MsgSeqNum too high, expecting 1 but received 223
+20220810-23:53:41.592 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:53:58.756 : Sent test request TEST
+20220810-23:53:58.758 : MsgSeqNum too high, expecting 1 but received 224
+20220810-23:53:58.758 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:54:11.602 : MsgSeqNum too high, expecting 1 but received 225
+20220810-23:54:11.602 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:54:34.774 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:54:34.788 : Session reset: ResetOnDisconnect
+20220810-23:54:34.993 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20057588 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62817
+20220810-23:54:34.993 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:54:34.996 : Session reset: ResetOnLogon
+20220810-23:54:34.997 : Received logon
+20220810-23:54:34.997 : Responding to logon request
+20220810-23:54:34.997 : MsgSeqNum too high, expecting 1 but received 226
+20220810-23:54:34.997 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:54:41.610 : MsgSeqNum too high, expecting 1 but received 227
+20220810-23:54:41.610 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:55:11.615 : MsgSeqNum too high, expecting 1 but received 228
+20220810-23:55:11.615 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:55:11.615 : Sent test request TEST
+20220810-23:55:11.619 : MsgSeqNum too high, expecting 1 but received 229
+20220810-23:55:11.619 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:55:33.115 : Created session
+20220810-23:55:33.242 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62821
+20220810-23:55:33.242 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220810-23:55:33.262 : Session reset: ResetOnLogon
+20220810-23:55:33.270 : Received logon
+20220810-23:55:33.279 : Responding to logon request
+20220810-23:55:33.280 : MsgSeqNum too high, expecting 1 but received 230
+20220810-23:55:33.282 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:55:41.625 : MsgSeqNum too high, expecting 1 but received 231
+20220810-23:55:41.625 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:56:09.857 : Sent test request TEST
+20220810-23:56:09.859 : MsgSeqNum too high, expecting 1 but received 232
+20220810-23:56:09.859 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:56:11.633 : MsgSeqNum too high, expecting 1 but received 233
+20220810-23:56:11.633 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:56:41.644 : MsgSeqNum too high, expecting 1 but received 234
+20220810-23:56:41.644 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:56:45.682 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:56:45.686 : Session reset: ResetOnDisconnect
+20220810-23:56:45.943 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 48649253 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62830
+20220810-23:56:45.943 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:56:45.946 : Session reset: ResetOnLogon
+20220810-23:56:45.947 : Received logon
+20220810-23:56:45.948 : Responding to logon request
+20220810-23:56:45.948 : MsgSeqNum too high, expecting 1 but received 235
+20220810-23:56:45.949 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:57:11.656 : MsgSeqNum too high, expecting 1 but received 236
+20220810-23:57:11.656 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:57:22.757 : Sent test request TEST
+20220810-23:57:22.760 : MsgSeqNum too high, expecting 1 but received 237
+20220810-23:57:22.760 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:57:41.670 : MsgSeqNum too high, expecting 1 but received 238
+20220810-23:57:41.670 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:57:58.800 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:57:58.803 : Session reset: ResetOnDisconnect
+20220810-23:57:59.006 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 16695065 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62833
+20220810-23:57:59.006 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:57:59.011 : Session reset: ResetOnLogon
+20220810-23:57:59.011 : Received logon
+20220810-23:57:59.012 : Responding to logon request
+20220810-23:57:59.012 : MsgSeqNum too high, expecting 1 but received 239
+20220810-23:57:59.012 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:58:11.673 : MsgSeqNum too high, expecting 1 but received 240
+20220810-23:58:11.673 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:58:35.909 : Sent test request TEST
+20220810-23:58:35.911 : MsgSeqNum too high, expecting 1 but received 241
+20220810-23:58:35.911 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:58:41.694 : MsgSeqNum too high, expecting 1 but received 242
+20220810-23:58:41.694 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:59:11.699 : MsgSeqNum too high, expecting 1 but received 243
+20220810-23:59:11.699 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:59:11.699 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220810-23:59:11.703 : Session reset: ResetOnDisconnect
+20220810-23:59:11.939 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 258006 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62836
+20220810-23:59:11.939 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220810-23:59:11.947 : Session reset: ResetOnLogon
+20220810-23:59:11.947 : Received logon
+20220810-23:59:11.949 : Responding to logon request
+20220810-23:59:11.949 : MsgSeqNum too high, expecting 1 but received 244
+20220810-23:59:11.950 : Sent ResendRequest FROM: 1 TO: 0
+20220810-23:59:41.707 : MsgSeqNum too high, expecting 1 but received 245
+20220810-23:59:41.707 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220810-23:59:48.795 : Sent test request TEST
+20220810-23:59:48.797 : MsgSeqNum too high, expecting 1 but received 246
+20220810-23:59:48.797 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:00:00.890 : Session reset: New session (detected in Next())
+20220811-00:00:11.722 : MsgSeqNum too high, expecting 1 but received 247
+20220811-00:00:11.722 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:00:24.824 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:00:24.828 : Session reset: ResetOnDisconnect
+20220811-00:00:25.035 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 11830895 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:62868
+20220811-00:00:25.035 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-00:00:25.038 : Session reset: ResetOnLogon
+20220811-00:00:25.038 : Received logon
+20220811-00:00:25.042 : Responding to logon request
+20220811-00:00:25.042 : MsgSeqNum too high, expecting 1 but received 248
+20220811-00:00:25.043 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:00:41.737 : MsgSeqNum too high, expecting 1 but received 249
+20220811-00:00:41.737 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:01:01.903 : Sent test request TEST
+20220811-00:01:01.905 : MsgSeqNum too high, expecting 1 but received 250
+20220811-00:01:01.905 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:01:11.749 : MsgSeqNum too high, expecting 1 but received 251
+20220811-00:01:11.749 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:01:37.985 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:01:37.989 : Session reset: ResetOnDisconnect
+20220811-00:01:38.206 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 36120876 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56399
+20220811-00:01:38.206 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-00:01:38.209 : Session reset: ResetOnLogon
+20220811-00:01:38.211 : Received logon
+20220811-00:01:38.214 : Responding to logon request
+20220811-00:01:38.214 : MsgSeqNum too high, expecting 1 but received 252
+20220811-00:01:38.217 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:01:41.760 : MsgSeqNum too high, expecting 1 but received 253
+20220811-00:01:41.760 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:02:11.769 : MsgSeqNum too high, expecting 1 but received 254
+20220811-00:02:11.769 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:02:14.790 : Sent test request TEST
+20220811-00:02:14.793 : MsgSeqNum too high, expecting 1 but received 255
+20220811-00:02:14.793 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:02:41.776 : MsgSeqNum too high, expecting 1 but received 256
+20220811-00:02:41.776 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:02:50.861 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:02:50.870 : Session reset: ResetOnDisconnect
+20220811-00:02:51.122 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 58608331 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56434
+20220811-00:02:51.122 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-00:02:51.131 : Session reset: ResetOnLogon
+20220811-00:02:51.132 : Received logon
+20220811-00:02:51.135 : Responding to logon request
+20220811-00:02:51.135 : MsgSeqNum too high, expecting 1 but received 257
+20220811-00:02:51.136 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:03:11.786 : MsgSeqNum too high, expecting 1 but received 258
+20220811-00:03:11.786 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:03:27.943 : Sent test request TEST
+20220811-00:03:27.948 : MsgSeqNum too high, expecting 1 but received 259
+20220811-00:03:27.948 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:03:41.798 : MsgSeqNum too high, expecting 1 but received 260
+20220811-00:03:41.798 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:04:04.007 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:04:04.012 : Session reset: ResetOnDisconnect
+20220811-00:04:04.230 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 15458568 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56463
+20220811-00:04:04.230 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-00:04:04.234 : Session reset: ResetOnLogon
+20220811-00:04:04.235 : Received logon
+20220811-00:04:04.237 : Responding to logon request
+20220811-00:04:04.237 : MsgSeqNum too high, expecting 1 but received 261
+20220811-00:04:04.238 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:04:11.809 : MsgSeqNum too high, expecting 1 but received 262
+20220811-00:04:11.809 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:04:41.078 : Sent test request TEST
+20220811-00:04:41.083 : MsgSeqNum too high, expecting 1 but received 263
+20220811-00:04:41.083 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:04:41.814 : MsgSeqNum too high, expecting 1 but received 264
+20220811-00:04:41.814 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:05:11.817 : MsgSeqNum too high, expecting 1 but received 265
+20220811-00:05:11.817 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:05:16.861 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:05:16.865 : Session reset: ResetOnDisconnect
+20220811-00:07:40.864 : Created session
+20220811-00:07:41.270 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56575
+20220811-00:07:41.270 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-00:07:41.987 : Session reset: ResetOnLogon
+20220811-00:07:41.996 : Received logon
+20220811-00:07:42.025 : Responding to logon request
+20220811-00:07:42.026 : MsgSeqNum too high, expecting 1 but received 266
+20220811-00:07:42.028 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:07:42.033 : MsgSeqNum too high, expecting 1 but received 267
+20220811-00:07:42.033 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:08:10.927 : Created session
+20220811-00:08:11.898 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56578
+20220811-00:08:11.898 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-00:08:11.936 : Session reset: ResetOnLogon
+20220811-00:08:11.953 : Received logon
+20220811-00:08:11.989 : Responding to logon request
+20220811-00:08:11.990 : MsgSeqNum too high, expecting 1 but received 268
+20220811-00:08:12.007 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:08:12.029 : MsgSeqNum too high, expecting 1 but received 269
+20220811-00:08:12.029 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:08:41.862 : MsgSeqNum too high, expecting 1 but received 270
+20220811-00:08:41.862 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:08:48.937 : Sent test request TEST
+20220811-00:08:48.938 : MsgSeqNum too high, expecting 1 but received 271
+20220811-00:08:48.938 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:08:54.154 : Created session
+20220811-00:08:54.981 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56587
+20220811-00:08:54.981 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-00:08:55.048 : Session reset: ResetOnLogon
+20220811-00:08:55.061 : Received logon
+20220811-00:08:55.081 : Responding to logon request
+20220811-00:08:55.082 : MsgSeqNum too high, expecting 1 but received 272
+20220811-00:08:55.094 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:09:11.871 : MsgSeqNum too high, expecting 1 but received 273
+20220811-00:09:11.871 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:09:32.266 : Sent test request TEST
+20220811-00:09:32.266 : MsgSeqNum too high, expecting 1 but received 274
+20220811-00:09:32.266 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:09:41.872 : MsgSeqNum too high, expecting 1 but received 275
+20220811-00:09:41.872 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:10:07.112 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:10:07.119 : Session reset: ResetOnDisconnect
+20220811-00:10:07.346 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20057588 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56708
+20220811-00:10:07.346 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-00:10:07.349 : Session reset: ResetOnLogon
+20220811-00:10:07.350 : Received logon
+20220811-00:10:07.351 : Responding to logon request
+20220811-00:10:07.351 : MsgSeqNum too high, expecting 1 but received 276
+20220811-00:10:07.351 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:10:11.878 : MsgSeqNum too high, expecting 1 but received 277
+20220811-00:10:11.878 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:10:26.711 : Created session
+20220811-00:10:27.151 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56711
+20220811-00:10:27.151 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-00:10:27.171 : Session reset: ResetOnLogon
+20220811-00:10:27.184 : Received logon
+20220811-00:10:27.197 : Responding to logon request
+20220811-00:10:27.197 : MsgSeqNum too high, expecting 1 but received 278
+20220811-00:10:27.199 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:10:41.889 : MsgSeqNum too high, expecting 1 but received 279
+20220811-00:10:41.889 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:11:32.975 : Created session
+20220811-00:11:33.807 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56723
+20220811-00:11:33.807 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-00:11:33.845 : Session reset: ResetOnLogon
+20220811-00:11:33.862 : Received logon
+20220811-00:11:33.913 : Responding to logon request
+20220811-00:11:33.915 : MsgSeqNum too high, expecting 1 but received 281
+20220811-00:11:33.928 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:11:41.904 : MsgSeqNum too high, expecting 1 but received 282
+20220811-00:11:41.904 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:12:06.922 : Message 283 Rejected: Invalid MsgType (Field=35)
+20220811-00:12:09.951 : Sent test request TEST
+20220811-00:12:09.954 : MsgSeqNum too high, expecting 1 but received 284
+20220811-00:12:09.954 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:12:11.909 : MsgSeqNum too high, expecting 1 but received 285
+20220811-00:12:11.909 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:12:20.928 : Message 286 Rejected: Invalid MsgType (Field=35)
+20220811-00:12:36.885 : Message 287 Rejected: Invalid MsgType (Field=35)
+20220811-00:12:38.605 : Message 288 Rejected: Invalid MsgType (Field=35)
+20220811-00:12:41.911 : MsgSeqNum too high, expecting 1 but received 289
+20220811-00:12:41.911 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-00:12:45.955 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-00:12:45.962 : Session reset: ResetOnDisconnect
+20220811-00:12:46.187 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 48649253 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:55258
+20220811-00:12:46.187 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-00:12:46.193 : Session reset: ResetOnLogon
+20220811-00:12:46.193 : Received logon
+20220811-00:12:46.194 : Responding to logon request
+20220811-00:12:46.194 : MsgSeqNum too high, expecting 1 but received 290
+20220811-00:12:46.195 : Sent ResendRequest FROM: 1 TO: 0
+20220811-00:12:52.414 : Message 291 Rejected: Invalid MsgType (Field=35)
+20220811-00:13:11.356 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:55258): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220811-00:13:11.439 : Session reset: ResetOnDisconnect
+20220811-16:05:54.882 : Created session
+20220811-16:06:27.853 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:65494
+20220811-16:06:27.853 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-16:06:27.873 : Session reset: ResetOnLogon
+20220811-16:06:27.876 : Received logon
+20220811-16:06:36.452 : Responding to logon request
+20220811-16:06:36.452 : MsgSeqNum too high, expecting 1 but received 292
+20220811-16:06:36.454 : Sent ResendRequest FROM: 1 TO: 0
+20220811-16:06:36.456 : MsgSeqNum too high, expecting 1 but received 293
+20220811-16:06:36.456 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-16:07:00.940 : MsgSeqNum too high, expecting 1 but received 294
+20220811-16:07:00.940 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-16:07:03.981 : Sent test request TEST
+20220811-16:07:03.982 : MsgSeqNum too high, expecting 1 but received 295
+20220811-16:07:03.982 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-16:07:30.943 : MsgSeqNum too high, expecting 1 but received 296
+20220811-16:07:30.943 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-16:07:40.022 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-16:07:40.026 : Session reset: ResetOnDisconnect
+20220811-16:16:04.819 : Created session
+20220811-19:50:47.867 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:53073
+20220811-19:50:47.868 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-19:50:48.157 : Session reset: ResetOnLogon
+20220811-19:50:48.163 : Received logon
+20220811-19:50:48.174 : Responding to logon request
+20220811-19:50:48.174 : MsgSeqNum too high, expecting 1 but received 297
+20220811-19:50:48.176 : Sent ResendRequest FROM: 1 TO: 0
+20220811-19:51:04.494 : MsgSeqNum too high, expecting 1 but received 298
+20220811-19:51:04.494 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:53:48.741 : Created session
+20220811-19:54:11.306 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:60883
+20220811-19:54:11.306 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-19:54:11.323 : Session reset: ResetOnLogon
+20220811-19:54:11.331 : Received logon
+20220811-19:54:11.338 : Responding to logon request
+20220811-19:54:11.338 : MsgSeqNum too high, expecting 1 but received 303
+20220811-19:54:11.339 : Sent ResendRequest FROM: 1 TO: 0
+20220811-19:54:34.553 : MsgSeqNum too high, expecting 1 but received 304
+20220811-19:54:34.553 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:54:47.671 : Sent test request TEST
+20220811-19:54:47.672 : MsgSeqNum too high, expecting 1 but received 305
+20220811-19:54:47.672 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:55:04.569 : MsgSeqNum too high, expecting 1 but received 306
+20220811-19:55:04.569 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:55:23.748 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-19:55:23.754 : Session reset: ResetOnDisconnect
+20220811-19:56:22.981 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 2993531 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:50401
+20220811-19:56:22.981 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-19:56:22.984 : Session reset: ResetOnLogon
+20220811-19:56:22.985 : Received logon
+20220811-19:56:22.985 : Responding to logon request
+20220811-19:56:22.985 : MsgSeqNum too high, expecting 1 but received 307
+20220811-19:56:22.986 : Sent ResendRequest FROM: 1 TO: 0
+20220811-19:56:24.775 : Message 308 Rejected: Required tag missing (Field=453)
+20220811-19:56:34.607 : MsgSeqNum too high, expecting 1 but received 309
+20220811-19:56:34.607 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:56:59.828 : Sent test request TEST
+20220811-19:56:59.830 : MsgSeqNum too high, expecting 1 but received 310
+20220811-19:56:59.830 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:57:04.610 : MsgSeqNum too high, expecting 1 but received 311
+20220811-19:57:04.610 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:57:34.613 : MsgSeqNum too high, expecting 1 but received 312
+20220811-19:57:34.613 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-19:57:35.627 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-19:57:35.631 : Session reset: ResetOnDisconnect
+20220811-21:00:36.539 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 39891323 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:52543
+20220811-21:00:36.539 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:00:36.543 : Session reset: ResetOnLogon
+20220811-21:00:36.544 : Received logon
+20220811-21:00:36.545 : Responding to logon request
+20220811-21:00:36.545 : MsgSeqNum too high, expecting 1 but received 313
+20220811-21:00:36.546 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:00:53.724 : Message 314 Rejected: Incorrect NumInGroup count for repeating group (Field=453)
+20220811-21:01:05.645 : MsgSeqNum too high, expecting 1 but received 315
+20220811-21:01:05.645 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:01:12.703 : Sent test request TEST
+20220811-21:01:12.705 : MsgSeqNum too high, expecting 1 but received 316
+20220811-21:01:12.705 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:01:35.660 : MsgSeqNum too high, expecting 1 but received 317
+20220811-21:01:35.660 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:01:48.746 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:01:48.749 : Session reset: ResetOnDisconnect
+20220811-21:07:19.816 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 48941308 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:65272
+20220811-21:07:19.816 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:07:19.819 : Session reset: ResetOnLogon
+20220811-21:08:08.967 : Received logon
+20220811-21:08:08.968 : Responding to logon request
+20220811-21:08:08.968 : MsgSeqNum too high, expecting 1 but received 318
+20220811-21:08:08.969 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:08:08.969 : Sent test request TEST
+20220811-21:08:08.974 : MsgSeqNum too high, expecting 1 but received 319
+20220811-21:08:08.974 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:08:08.974 : MsgSeqNum too high, expecting 1 but received 320
+20220811-21:08:08.974 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:08:08.974 : MsgSeqNum too high, expecting 1 but received 321
+20220811-21:08:08.974 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:08:08.984 : MsgSeqNum too high, expecting 1 but received 322
+20220811-21:08:08.984 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:08:32.180 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:08:32.183 : Session reset: ResetOnDisconnect
+20220811-21:09:53.272 : Created session
+20220811-21:10:02.052 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64088
+20220811-21:10:02.052 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-21:10:02.073 : Session reset: ResetOnLogon
+20220811-21:10:02.081 : Received logon
+20220811-21:10:02.089 : Responding to logon request
+20220811-21:10:02.089 : MsgSeqNum too high, expecting 1 but received 323
+20220811-21:10:02.091 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:10:05.822 : MsgSeqNum too high, expecting 1 but received 324
+20220811-21:10:05.822 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:10:40.698 : MsgSeqNum too high, expecting 1 but received 325
+20220811-21:10:40.698 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:10:40.699 : Sent test request TEST
+20220811-21:10:40.702 : MsgSeqNum too high, expecting 1 but received 326
+20220811-21:10:40.702 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:10:49.170 : MsgSeqNum too high, expecting 1 but received 327
+20220811-21:10:49.170 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:11:05.849 : MsgSeqNum too high, expecting 1 but received 328
+20220811-21:11:05.849 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:11:14.947 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:11:14.952 : Session reset: ResetOnDisconnect
+20220811-21:11:15.153 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 48649253 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64096
+20220811-21:11:15.153 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:11:15.155 : Session reset: ResetOnLogon
+20220811-21:11:15.156 : Received logon
+20220811-21:11:15.157 : Responding to logon request
+20220811-21:11:15.157 : MsgSeqNum too high, expecting 1 but received 329
+20220811-21:11:15.158 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:11:35.852 : MsgSeqNum too high, expecting 1 but received 330
+20220811-21:11:35.852 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:11:52.011 : Sent test request TEST
+20220811-21:11:52.016 : MsgSeqNum too high, expecting 1 but received 331
+20220811-21:11:52.016 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:11:55.536 : MsgSeqNum too high, expecting 1 but received 332
+20220811-21:11:55.537 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:12:05.860 : MsgSeqNum too high, expecting 1 but received 333
+20220811-21:12:05.860 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:12:28.014 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:13:18.228 : Created session
+20220811-21:13:18.706 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64099
+20220811-21:13:18.706 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-21:13:18.791 : Session reset: ResetOnLogon
+20220811-21:13:18.825 : Received logon
+20220811-21:13:18.936 : Responding to logon request
+20220811-21:13:18.937 : MsgSeqNum too high, expecting 1 but received 336
+20220811-21:13:18.991 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:13:33.660 : MsgSeqNum too high, expecting 1 but received 337
+20220811-21:13:33.660 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:13:35.894 : MsgSeqNum too high, expecting 1 but received 338
+20220811-21:13:35.894 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:13:44.896 : MsgSeqNum too high, expecting 1 but received 339
+20220811-21:13:44.896 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:13:54.979 : Sent test request TEST
+20220811-21:13:54.981 : MsgSeqNum too high, expecting 1 but received 340
+20220811-21:13:54.981 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:14:05.907 : MsgSeqNum too high, expecting 1 but received 341
+20220811-21:14:05.907 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:14:31.102 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:14:31.107 : Session reset: ResetOnDisconnect
+20220811-21:14:31.312 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20057588 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64107
+20220811-21:14:31.312 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:14:31.315 : Session reset: ResetOnLogon
+20220811-21:14:31.316 : Received logon
+20220811-21:14:31.317 : Responding to logon request
+20220811-21:14:31.317 : MsgSeqNum too high, expecting 1 but received 342
+20220811-21:14:31.317 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:14:35.906 : MsgSeqNum too high, expecting 1 but received 343
+20220811-21:14:35.906 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:14:50.922 : MsgSeqNum too high, expecting 1 but received 344
+20220811-21:14:50.922 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:15:05.920 : MsgSeqNum too high, expecting 1 but received 345
+20220811-21:15:05.920 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:15:07.947 : Sent test request TEST
+20220811-21:15:07.948 : MsgSeqNum too high, expecting 1 but received 346
+20220811-21:15:07.948 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:15:35.926 : MsgSeqNum too high, expecting 1 but received 347
+20220811-21:15:35.926 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:15:44.005 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:15:44.009 : Session reset: ResetOnDisconnect
+20220811-21:15:44.217 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 43953530 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64111
+20220811-21:15:44.218 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:15:44.226 : Session reset: ResetOnLogon
+20220811-21:15:44.227 : Received logon
+20220811-21:16:10.535 : Responding to logon request
+20220811-21:16:10.535 : MsgSeqNum too high, expecting 1 but received 348
+20220811-21:16:12.796 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:16:12.799 : MsgSeqNum too high, expecting 1 but received 349
+20220811-21:16:12.799 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:16:18.917 : MsgSeqNum too high, expecting 1 but received 350
+20220811-21:16:18.917 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:16:36.727 : Sent test request TEST
+20220811-21:16:36.727 : MsgSeqNum too high, expecting 1 but received 351
+20220811-21:16:36.727 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:16:36.729 : MsgSeqNum too high, expecting 1 but received 352
+20220811-21:16:36.729 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:16:53.662 : MsgSeqNum too high, expecting 1 but received 353
+20220811-21:16:53.662 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:16:56.690 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:17:10.380 : Session reset: ResetOnDisconnect
+20220811-21:17:10.617 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 10810058 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64113
+20220811-21:17:10.617 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:17:10.620 : Session reset: ResetOnLogon
+20220811-21:17:10.621 : Received logon
+20220811-21:17:16.911 : Responding to logon request
+20220811-21:17:16.911 : MsgSeqNum too high, expecting 1 but received 355
+20220811-21:17:18.928 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:17:35.229 : MsgSeqNum too high, expecting 1 but received 356
+20220811-21:17:35.229 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:17:35.957 : MsgSeqNum too high, expecting 1 but received 357
+20220811-21:17:35.957 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:17:44.909 : MsgSeqNum too high, expecting 1 but received 358
+20220811-21:17:44.909 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:17:54.681 : Sent test request TEST
+20220811-21:17:54.682 : MsgSeqNum too high, expecting 1 but received 359
+20220811-21:17:54.682 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:18:05.963 : MsgSeqNum too high, expecting 1 but received 360
+20220811-21:18:05.963 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:18:23.103 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:18:23.111 : Session reset: ResetOnDisconnect
+20220811-21:18:23.323 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 8519997 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64114
+20220811-21:18:23.323 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:18:23.331 : Session reset: ResetOnLogon
+20220811-21:18:23.334 : Received logon
+20220811-21:19:32.366 : Responding to logon request
+20220811-21:19:32.366 : MsgSeqNum too high, expecting 1 but received 361
+20220811-21:19:34.294 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:19:35.708 : Sent test request TEST
+20220811-21:19:35.711 : MsgSeqNum too high, expecting 1 but received 362
+20220811-21:19:35.711 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:19:35.711 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:19:35.716 : Session reset: ResetOnDisconnect
+20220811-21:19:35.716 : Session FIX.4.4:SIMPLE->CLIENT1 already disconnected: Received msg type '0' when not logged on
+20220811-21:19:35.723 : Session reset: ResetOnDisconnect
+20220811-21:19:35.723 : Session FIX.4.4:SIMPLE->CLIENT1 already disconnected: Received msg type 'D' when not logged on
+20220811-21:19:35.732 : Session reset: ResetOnDisconnect
+20220811-21:19:35.956 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 50266123 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64115
+20220811-21:19:35.956 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:19:35.960 : Session reset: ResetOnLogon
+20220811-21:19:35.964 : Received logon
+20220811-21:19:36.421 : Responding to logon request
+20220811-21:19:36.421 : MsgSeqNum too high, expecting 1 but received 366
+20220811-21:19:36.986 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:19:36.989 : MsgSeqNum too high, expecting 1 but received 367
+20220811-21:19:36.989 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:19:48.609 : MsgSeqNum too high, expecting 1 but received 368
+20220811-21:19:48.609 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:20:06.006 : MsgSeqNum too high, expecting 1 but received 369
+20220811-21:20:06.006 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:20:22.739 : Sent test request TEST
+20220811-21:20:22.745 : MsgSeqNum too high, expecting 1 but received 370
+20220811-21:20:22.745 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:20:36.019 : MsgSeqNum too high, expecting 1 but received 371
+20220811-21:20:36.019 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:20:48.131 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:20:48.137 : Session reset: ResetOnDisconnect
+20220811-21:20:48.385 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 11144452 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49225
+20220811-21:20:48.385 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:20:48.387 : Session reset: ResetOnLogon
+20220811-21:20:48.388 : Received logon
+20220811-21:20:48.390 : Responding to logon request
+20220811-21:20:48.390 : MsgSeqNum too high, expecting 1 but received 372
+20220811-21:20:48.392 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:21:06.023 : MsgSeqNum too high, expecting 1 but received 373
+20220811-21:21:06.023 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:21:25.149 : Sent test request TEST
+20220811-21:21:25.150 : MsgSeqNum too high, expecting 1 but received 374
+20220811-21:21:25.150 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:21:36.028 : MsgSeqNum too high, expecting 1 but received 375
+20220811-21:21:36.028 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:22:01.258 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:22:01.263 : Session reset: ResetOnDisconnect
+20220811-21:22:01.464 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 47045204 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49232
+20220811-21:22:01.464 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:22:01.467 : Session reset: ResetOnLogon
+20220811-21:22:01.467 : Received logon
+20220811-21:22:01.469 : Responding to logon request
+20220811-21:22:01.469 : MsgSeqNum too high, expecting 1 but received 376
+20220811-21:22:01.470 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:22:06.042 : MsgSeqNum too high, expecting 1 but received 377
+20220811-21:22:06.042 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:22:29.558 : MsgSeqNum too high, expecting 1 but received 378
+20220811-21:22:29.558 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:22:36.055 : MsgSeqNum too high, expecting 1 but received 379
+20220811-21:22:36.055 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:22:38.064 : Sent test request TEST
+20220811-21:22:38.066 : MsgSeqNum too high, expecting 1 but received 380
+20220811-21:22:38.066 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:23:06.065 : MsgSeqNum too high, expecting 1 but received 381
+20220811-21:23:06.065 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:23:14.151 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:23:14.161 : Session reset: ResetOnDisconnect
+20220811-21:23:14.377 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 58832616 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49242
+20220811-21:23:14.377 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:23:14.379 : Session reset: ResetOnLogon
+20220811-21:23:14.382 : Received logon
+20220811-21:23:14.387 : Responding to logon request
+20220811-21:23:14.387 : MsgSeqNum too high, expecting 1 but received 382
+20220811-21:23:14.389 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:23:36.081 : MsgSeqNum too high, expecting 1 but received 383
+20220811-21:23:36.081 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:23:51.169 : Sent test request TEST
+20220811-21:23:51.171 : MsgSeqNum too high, expecting 1 but received 384
+20220811-21:23:51.171 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:24:06.093 : MsgSeqNum too high, expecting 1 but received 385
+20220811-21:24:06.093 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:24:08.335 : Message 386 Rejected: Incorrect NumInGroup count for repeating group (Field=453)
+20220811-21:24:18.335 : MsgSeqNum too high, expecting 1 but received 387
+20220811-21:24:18.335 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:24:26.426 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:24:26.430 : Session reset: ResetOnDisconnect
+20220811-21:24:26.622 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 58454156 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49251
+20220811-21:24:26.622 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:24:26.624 : Session reset: ResetOnLogon
+20220811-21:24:26.624 : Received logon
+20220811-21:24:26.625 : Responding to logon request
+20220811-21:24:26.625 : MsgSeqNum too high, expecting 1 but received 388
+20220811-21:24:26.626 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:24:36.102 : MsgSeqNum too high, expecting 1 but received 389
+20220811-21:24:36.102 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:25:03.386 : Sent test request TEST
+20220811-21:25:03.387 : MsgSeqNum too high, expecting 1 but received 390
+20220811-21:25:03.387 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:25:06.108 : MsgSeqNum too high, expecting 1 but received 391
+20220811-21:25:06.108 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:25:36.110 : MsgSeqNum too high, expecting 1 but received 392
+20220811-21:25:36.110 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:25:39.128 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:25:39.131 : Session reset: ResetOnDisconnect
+20220811-21:25:39.339 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 47810783 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49256
+20220811-21:25:39.339 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:25:39.345 : Session reset: ResetOnLogon
+20220811-21:25:39.345 : Received logon
+20220811-21:25:39.347 : Responding to logon request
+20220811-21:25:39.347 : MsgSeqNum too high, expecting 1 but received 393
+20220811-21:25:39.348 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:26:06.127 : MsgSeqNum too high, expecting 1 but received 394
+20220811-21:26:06.127 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:27:58.743 : Created session
+20220811-21:27:59.815 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49315
+20220811-21:27:59.815 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-21:27:59.835 : Session reset: ResetOnLogon
+20220811-21:27:59.844 : Received logon
+20220811-21:27:59.852 : Responding to logon request
+20220811-21:27:59.853 : MsgSeqNum too high, expecting 1 but received 395
+20220811-21:27:59.855 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:28:06.167 : MsgSeqNum too high, expecting 1 but received 396
+20220811-21:28:06.167 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:28:36.176 : MsgSeqNum too high, expecting 1 but received 397
+20220811-21:28:36.176 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:28:36.177 : Sent test request TEST
+20220811-21:28:36.181 : MsgSeqNum too high, expecting 1 but received 398
+20220811-21:28:36.181 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:28:37.450 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Socket exception (127.0.0.1:49315): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220811-21:28:37.454 : Session reset: ResetOnDisconnect
+20220811-21:28:46.268 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 12549444 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49328
+20220811-21:28:46.268 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220811-21:28:46.273 : Session reset: ResetOnLogon
+20220811-21:28:46.276 : Received logon
+20220811-21:28:46.277 : Responding to logon request
+20220811-21:28:46.277 : MsgSeqNum too high, expecting 1 but received 399
+20220811-21:28:46.283 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:29:06.183 : MsgSeqNum too high, expecting 1 but received 400
+20220811-21:29:06.183 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:29:33.208 : Created session
+20220811-21:29:38.099 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:49339
+20220811-21:29:38.099 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220811-21:29:38.120 : Session reset: ResetOnLogon
+20220811-21:29:38.129 : Received logon
+20220811-21:29:38.136 : Responding to logon request
+20220811-21:29:38.137 : MsgSeqNum too high, expecting 1 but received 401
+20220811-21:29:38.139 : Sent ResendRequest FROM: 1 TO: 0
+20220811-21:30:06.200 : MsgSeqNum too high, expecting 1 but received 402
+20220811-21:30:06.200 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:30:14.284 : Sent test request TEST
+20220811-21:30:14.285 : MsgSeqNum too high, expecting 1 but received 403
+20220811-21:30:14.285 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:30:36.205 : MsgSeqNum too high, expecting 1 but received 404
+20220811-21:30:36.205 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220811-21:30:50.323 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220811-21:30:50.337 : Session reset: ResetOnDisconnect
+20220812-16:08:55.654 : Session FIX.4.4:SIMPLE->CLIENT1 already disconnected: Resetting...
+20220812-16:08:55.691 : Session reset: New session
+20220812-16:08:55.691 : Created session
+20220812-16:08:59.960 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:65532
+20220812-16:08:59.960 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220812-16:09:00.377 : Session reset: ResetOnLogon
+20220812-16:09:00.390 : Received logon
+20220812-16:09:00.405 : Responding to logon request
+20220812-16:09:00.406 : MsgSeqNum too high, expecting 1 but received 405
+20220812-16:09:00.409 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:09:17.636 : MsgSeqNum too high, expecting 1 but received 406
+20220812-16:09:17.636 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:09:36.793 : Sent test request TEST
+20220812-16:09:36.797 : MsgSeqNum too high, expecting 1 but received 407
+20220812-16:09:36.797 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:09:47.638 : MsgSeqNum too high, expecting 1 but received 408
+20220812-16:09:47.638 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:10:12.879 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:10:12.882 : Session reset: ResetOnDisconnect
+20220812-16:12:42.594 : Created session
+20220812-16:12:53.373 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:58953
+20220812-16:12:53.373 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220812-16:12:53.393 : Session reset: ResetOnLogon
+20220812-16:12:53.399 : Received logon
+20220812-16:12:53.406 : Responding to logon request
+20220812-16:12:53.407 : MsgSeqNum too high, expecting 1 but received 409
+20220812-16:12:53.409 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:13:17.710 : MsgSeqNum too high, expecting 1 but received 410
+20220812-16:13:17.710 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:13:29.829 : Sent test request TEST
+20220812-16:13:29.831 : MsgSeqNum too high, expecting 1 but received 411
+20220812-16:13:29.831 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:13:37.757 : Created session
+20220812-16:13:44.135 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:58971
+20220812-16:13:44.135 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220812-16:13:44.157 : Session reset: ResetOnLogon
+20220812-16:13:44.165 : Received logon
+20220812-16:14:21.098 : Responding to logon request
+20220812-16:14:21.098 : MsgSeqNum too high, expecting 1 but received 412
+20220812-16:14:25.158 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:14:29.741 : Sent test request TEST
+20220812-16:14:29.745 : MsgSeqNum too high, expecting 1 but received 413
+20220812-16:14:29.745 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:14:29.746 : MsgSeqNum too high, expecting 1 but received 414
+20220812-16:14:29.746 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:14:29.746 : MsgSeqNum too high, expecting 1 but received 415
+20220812-16:14:29.746 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:14:47.735 : MsgSeqNum too high, expecting 1 but received 416
+20220812-16:14:47.735 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:14:54.611 : MsgSeqNum too high, expecting 1 but received 417
+20220812-16:14:54.611 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:14:56.636 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:15:03.403 : Session reset: ResetOnDisconnect
+20220812-16:15:29.353 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 2993531 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59002
+20220812-16:15:29.370 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:15:29.373 : Session reset: ResetOnLogon
+20220812-16:15:29.373 : Received logon
+20220812-16:15:29.375 : Responding to logon request
+20220812-16:15:29.375 : MsgSeqNum too high, expecting 1 but received 418
+20220812-16:15:29.377 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:15:40.187 : MsgSeqNum too high, expecting 1 but received 419
+20220812-16:15:40.187 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:15:47.757 : MsgSeqNum too high, expecting 1 but received 420
+20220812-16:15:47.757 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:15:52.465 : MsgSeqNum too high, expecting 1 but received 421
+20220812-16:15:52.465 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:16:03.741 : Message 422 Rejected: Invalid MsgType (Field=35)
+20220812-16:16:05.778 : Sent test request TEST
+20220812-16:16:05.781 : MsgSeqNum too high, expecting 1 but received 423
+20220812-16:16:05.781 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:16:17.773 : MsgSeqNum too high, expecting 1 but received 424
+20220812-16:16:17.773 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:16:41.972 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:16:41.976 : Session reset: ResetOnDisconnect
+20220812-16:16:50.439 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 52313655 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59021
+20220812-16:16:50.439 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:16:50.442 : Session reset: ResetOnLogon
+20220812-16:16:50.442 : Received logon
+20220812-16:16:50.444 : Responding to logon request
+20220812-16:16:50.444 : MsgSeqNum too high, expecting 1 but received 425
+20220812-16:16:50.445 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:17:17.798 : MsgSeqNum too high, expecting 1 but received 426
+20220812-16:17:17.798 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:17:26.923 : Sent test request TEST
+20220812-16:17:26.925 : MsgSeqNum too high, expecting 1 but received 427
+20220812-16:17:26.925 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:17:47.815 : MsgSeqNum too high, expecting 1 but received 428
+20220812-16:17:47.815 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:02.896 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:18:02.899 : Session reset: ResetOnDisconnect
+20220812-16:18:09.428 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 46570654 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59028
+20220812-16:18:09.428 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:18:09.431 : Session reset: ResetOnLogon
+20220812-16:18:09.431 : Received logon
+20220812-16:18:09.434 : Responding to logon request
+20220812-16:18:09.434 : MsgSeqNum too high, expecting 1 but received 429
+20220812-16:18:09.437 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:18:12.745 : MsgSeqNum too high, expecting 1 but received 430
+20220812-16:18:12.745 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:17.825 : MsgSeqNum too high, expecting 1 but received 431
+20220812-16:18:17.825 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:38.260 : MsgSeqNum too high, expecting 1 but received 432
+20220812-16:18:38.260 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:46.342 : Sent test request TEST
+20220812-16:18:46.345 : MsgSeqNum too high, expecting 1 but received 433
+20220812-16:18:46.345 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:46.604 : MsgSeqNum too high, expecting 1 but received 434
+20220812-16:18:46.604 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:47.834 : MsgSeqNum too high, expecting 1 but received 435
+20220812-16:18:47.834 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:53.185 : MsgSeqNum too high, expecting 1 but received 436
+20220812-16:18:53.185 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:18:58.609 : MsgSeqNum too high, expecting 1 but received 437
+20220812-16:18:58.609 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:19:03.808 : MsgSeqNum too high, expecting 1 but received 438
+20220812-16:19:03.808 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:19:17.836 : MsgSeqNum too high, expecting 1 but received 439
+20220812-16:19:17.836 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:19:21.870 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:20:27.349 : Created session
+20220812-16:20:50.254 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59061
+20220812-16:20:50.254 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220812-16:20:50.280 : Session reset: ResetOnLogon
+20220812-16:20:50.403 : Received logon
+20220812-16:20:50.418 : Responding to logon request
+20220812-16:20:50.419 : MsgSeqNum too high, expecting 1 but received 442
+20220812-16:20:50.429 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:21:17.889 : MsgSeqNum too high, expecting 1 but received 443
+20220812-16:21:17.889 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:21:26.967 : Sent test request TEST
+20220812-16:21:26.970 : MsgSeqNum too high, expecting 1 but received 444
+20220812-16:21:26.970 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:21:42.320 : MsgSeqNum too high, expecting 1 but received 445
+20220812-16:21:42.320 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:21:47.890 : MsgSeqNum too high, expecting 1 but received 446
+20220812-16:21:47.890 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:22:03.033 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:22:03.038 : Session reset: ResetOnDisconnect
+20220812-16:22:03.259 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20057588 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59069
+20220812-16:22:03.259 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:22:03.261 : Session reset: ResetOnLogon
+20220812-16:22:03.263 : Received logon
+20220812-16:22:03.265 : Responding to logon request
+20220812-16:22:03.265 : MsgSeqNum too high, expecting 1 but received 447
+20220812-16:22:03.266 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:22:12.658 : Message 448 Rejected: Invalid MsgType (Field=35)
+20220812-16:22:17.901 : MsgSeqNum too high, expecting 1 but received 449
+20220812-16:22:17.901 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:22:40.091 : Sent test request TEST
+20220812-16:22:40.093 : MsgSeqNum too high, expecting 1 but received 450
+20220812-16:22:40.093 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:22:47.918 : MsgSeqNum too high, expecting 1 but received 451
+20220812-16:22:47.918 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:15.939 : MsgSeqNum too high, expecting 1 but received 452
+20220812-16:23:15.939 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:15.939 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:23:15.943 : Session reset: ResetOnDisconnect
+20220812-16:23:16.140 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 16695065 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59071
+20220812-16:23:16.140 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:23:16.142 : Session reset: ResetOnLogon
+20220812-16:23:16.145 : Received logon
+20220812-16:23:16.147 : Responding to logon request
+20220812-16:23:16.147 : MsgSeqNum too high, expecting 1 but received 453
+20220812-16:23:16.148 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:23:17.928 : MsgSeqNum too high, expecting 1 but received 454
+20220812-16:23:17.928 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:35.561 : MsgSeqNum too high, expecting 1 but received 455
+20220812-16:23:35.561 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:42.522 : MsgSeqNum too high, expecting 1 but received 456
+20220812-16:23:42.522 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:47.940 : MsgSeqNum too high, expecting 1 but received 457
+20220812-16:23:47.940 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:52.977 : Sent test request TEST
+20220812-16:23:52.979 : MsgSeqNum too high, expecting 1 but received 458
+20220812-16:23:52.979 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:23:55.571 : Received logout request
+20220812-16:23:55.573 : Sending logout response
+20220812-16:23:55.576 : Session reset: ResetOnLogout
+20220812-16:23:55.576 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Received logout request
+20220812-16:23:55.579 : Session reset: ResetOnDisconnect
+20220812-16:23:55.807 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 258006 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59073
+20220812-16:23:55.807 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:23:55.809 : Session reset: ResetOnLogon
+20220812-16:23:55.812 : Received logon
+20220812-16:23:55.814 : Responding to logon request
+20220812-16:23:55.814 : MsgSeqNum too high, expecting 1 but received 460
+20220812-16:23:55.815 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:24:03.415 : Session reset: ResetOnLogon
+20220812-16:24:03.415 : ResendRequest for messages FROM: 1 TO: 0 has been satisfied.
+20220812-16:24:03.418 : Received logon
+20220812-16:24:03.420 : Responding to logon request
+20220812-16:24:03.420 : MsgSeqNum too high, expecting 1 but received 461
+20220812-16:24:03.422 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:24:11.266 : MsgSeqNum too high, expecting 1 but received 462
+20220812-16:24:11.266 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:24:16.058 : Message 463 Rejected: Incorrect NumInGroup count for repeating group (Field=453)
+20220812-16:24:17.958 : MsgSeqNum too high, expecting 1 but received 464
+20220812-16:24:17.958 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:24:40.138 : Sent test request TEST
+20220812-16:24:40.140 : MsgSeqNum too high, expecting 1 but received 465
+20220812-16:24:40.140 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:24:47.964 : MsgSeqNum too high, expecting 1 but received 466
+20220812-16:24:47.964 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:25:16.249 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:25:16.255 : Session reset: ResetOnDisconnect
+20220812-16:25:16.459 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 11891108 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59079
+20220812-16:25:16.459 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:25:16.462 : Session reset: ResetOnLogon
+20220812-16:25:16.464 : Received logon
+20220812-16:25:16.465 : Responding to logon request
+20220812-16:25:16.465 : MsgSeqNum too high, expecting 1 but received 467
+20220812-16:25:16.467 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:25:17.982 : MsgSeqNum too high, expecting 1 but received 468
+20220812-16:25:17.982 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:25:47.993 : MsgSeqNum too high, expecting 1 but received 469
+20220812-16:25:47.993 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:25:53.018 : Sent test request TEST
+20220812-16:25:53.020 : MsgSeqNum too high, expecting 1 but received 470
+20220812-16:25:53.020 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:26:18.009 : MsgSeqNum too high, expecting 1 but received 471
+20220812-16:26:18.009 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:26:29.105 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:26:29.110 : Session reset: ResetOnDisconnect
+20220812-16:26:29.313 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 36120876 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:59098
+20220812-16:26:29.313 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:26:29.322 : Session reset: ResetOnLogon
+20220812-16:26:29.324 : Received logon
+20220812-16:26:29.327 : Responding to logon request
+20220812-16:26:29.327 : MsgSeqNum too high, expecting 1 but received 472
+20220812-16:26:29.330 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:26:48.012 : MsgSeqNum too high, expecting 1 but received 473
+20220812-16:26:48.012 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:27:06.221 : Sent test request TEST
+20220812-16:27:06.223 : MsgSeqNum too high, expecting 1 but received 474
+20220812-16:27:06.223 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:27:18.022 : MsgSeqNum too high, expecting 1 but received 475
+20220812-16:27:18.022 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:27:42.268 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:27:42.277 : Session reset: ResetOnDisconnect
+20220812-16:27:42.514 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 2423681 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56690
+20220812-16:27:42.514 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:27:42.516 : Session reset: ResetOnLogon
+20220812-16:27:42.519 : Received logon
+20220812-16:27:42.521 : Responding to logon request
+20220812-16:27:42.521 : MsgSeqNum too high, expecting 1 but received 476
+20220812-16:27:42.525 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:27:48.035 : MsgSeqNum too high, expecting 1 but received 477
+20220812-16:27:48.035 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:28:18.042 : MsgSeqNum too high, expecting 1 but received 478
+20220812-16:28:18.042 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:28:19.053 : Sent test request TEST
+20220812-16:28:19.056 : MsgSeqNum too high, expecting 1 but received 479
+20220812-16:28:19.056 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:28:48.053 : MsgSeqNum too high, expecting 1 but received 480
+20220812-16:28:48.053 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:28:55.114 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:28:55.119 : Session reset: ResetOnDisconnect
+20220812-16:28:55.351 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 45642925 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56734
+20220812-16:28:55.351 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:28:55.354 : Session reset: ResetOnLogon
+20220812-16:28:55.358 : Received logon
+20220812-16:28:55.360 : Responding to logon request
+20220812-16:28:55.360 : MsgSeqNum too high, expecting 1 but received 481
+20220812-16:28:55.363 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:29:18.069 : MsgSeqNum too high, expecting 1 but received 482
+20220812-16:29:18.069 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:29:32.212 : Sent test request TEST
+20220812-16:29:32.215 : MsgSeqNum too high, expecting 1 but received 483
+20220812-16:29:32.215 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:29:48.073 : MsgSeqNum too high, expecting 1 but received 484
+20220812-16:29:48.073 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:30:08.234 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:30:08.243 : Session reset: ResetOnDisconnect
+20220812-16:30:08.497 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 64174321 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56764
+20220812-16:30:08.497 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:30:08.500 : Session reset: ResetOnLogon
+20220812-16:30:08.513 : Received logon
+20220812-16:30:08.516 : Responding to logon request
+20220812-16:30:08.516 : MsgSeqNum too high, expecting 1 but received 485
+20220812-16:30:08.519 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:30:18.088 : MsgSeqNum too high, expecting 1 but received 486
+20220812-16:30:18.088 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:30:45.337 : Sent test request TEST
+20220812-16:30:45.338 : MsgSeqNum too high, expecting 1 but received 487
+20220812-16:30:45.338 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:30:48.106 : MsgSeqNum too high, expecting 1 but received 488
+20220812-16:30:48.106 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:31:18.114 : MsgSeqNum too high, expecting 1 but received 489
+20220812-16:31:18.114 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:31:21.171 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:31:21.225 : Session reset: ResetOnDisconnect
+20220812-16:31:21.465 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 10053861 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56818
+20220812-16:31:21.465 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:31:21.468 : Session reset: ResetOnLogon
+20220812-16:31:21.481 : Received logon
+20220812-16:31:21.482 : Responding to logon request
+20220812-16:31:21.482 : MsgSeqNum too high, expecting 1 but received 490
+20220812-16:31:21.485 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:31:48.119 : MsgSeqNum too high, expecting 1 but received 491
+20220812-16:31:48.119 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:31:58.173 : Sent test request TEST
+20220812-16:31:58.177 : MsgSeqNum too high, expecting 1 but received 492
+20220812-16:31:58.177 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:32:18.131 : MsgSeqNum too high, expecting 1 but received 493
+20220812-16:32:18.131 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:32:34.245 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:32:34.249 : Session reset: ResetOnDisconnect
+20220812-16:32:34.459 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20788040 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56862
+20220812-16:32:34.459 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:32:34.462 : Session reset: ResetOnLogon
+20220812-16:32:34.465 : Received logon
+20220812-16:32:34.467 : Responding to logon request
+20220812-16:32:34.467 : MsgSeqNum too high, expecting 1 but received 494
+20220812-16:32:34.468 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:32:48.133 : MsgSeqNum too high, expecting 1 but received 495
+20220812-16:32:48.133 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:33:11.309 : Sent test request TEST
+20220812-16:33:11.310 : MsgSeqNum too high, expecting 1 but received 496
+20220812-16:33:11.310 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:33:18.146 : MsgSeqNum too high, expecting 1 but received 497
+20220812-16:33:18.146 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:33:47.343 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:33:47.348 : Session reset: ResetOnDisconnect
+20220812-16:33:47.535 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 15208523 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56892
+20220812-16:33:47.535 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:33:47.538 : Session reset: ResetOnLogon
+20220812-16:33:47.540 : Received logon
+20220812-16:33:47.542 : Responding to logon request
+20220812-16:33:47.542 : MsgSeqNum too high, expecting 1 but received 498
+20220812-16:33:47.543 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:33:48.143 : MsgSeqNum too high, expecting 1 but received 499
+20220812-16:33:48.143 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:34:18.157 : MsgSeqNum too high, expecting 1 but received 500
+20220812-16:34:18.157 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:34:24.231 : Sent test request TEST
+20220812-16:34:24.234 : MsgSeqNum too high, expecting 1 but received 501
+20220812-16:34:24.234 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:34:48.168 : MsgSeqNum too high, expecting 1 but received 502
+20220812-16:34:48.168 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:35:00.293 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:35:00.297 : Session reset: ResetOnDisconnect
+20220812-16:35:00.512 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 31450302 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56950
+20220812-16:35:00.512 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:35:00.515 : Session reset: ResetOnLogon
+20220812-16:35:00.519 : Received logon
+20220812-16:35:00.522 : Responding to logon request
+20220812-16:35:00.522 : MsgSeqNum too high, expecting 1 but received 503
+20220812-16:35:00.523 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:35:18.184 : MsgSeqNum too high, expecting 1 but received 504
+20220812-16:35:18.184 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:35:37.365 : Sent test request TEST
+20220812-16:35:37.369 : MsgSeqNum too high, expecting 1 but received 505
+20220812-16:35:37.369 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:35:48.194 : MsgSeqNum too high, expecting 1 but received 506
+20220812-16:35:48.194 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:36:13.490 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:36:13.493 : Session reset: ResetOnDisconnect
+20220812-16:36:13.703 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 16329964 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:56983
+20220812-16:36:13.703 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:36:13.706 : Session reset: ResetOnLogon
+20220812-16:36:13.709 : Received logon
+20220812-16:36:13.710 : Responding to logon request
+20220812-16:36:13.710 : MsgSeqNum too high, expecting 1 but received 507
+20220812-16:36:13.711 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:36:18.207 : MsgSeqNum too high, expecting 1 but received 508
+20220812-16:36:18.207 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:36:48.212 : MsgSeqNum too high, expecting 1 but received 509
+20220812-16:36:48.212 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:36:50.223 : Sent test request TEST
+20220812-16:36:50.228 : MsgSeqNum too high, expecting 1 but received 510
+20220812-16:36:50.228 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:37:18.220 : MsgSeqNum too high, expecting 1 but received 511
+20220812-16:37:18.220 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:37:26.305 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:37:26.311 : Session reset: ResetOnDisconnect
+20220812-16:37:26.515 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 4714963 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57006
+20220812-16:37:26.515 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:37:26.517 : Session reset: ResetOnLogon
+20220812-16:37:26.521 : Received logon
+20220812-16:37:26.524 : Responding to logon request
+20220812-16:37:26.524 : MsgSeqNum too high, expecting 1 but received 512
+20220812-16:37:26.526 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:37:48.224 : MsgSeqNum too high, expecting 1 but received 513
+20220812-16:37:48.224 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:38:03.324 : Sent test request TEST
+20220812-16:38:03.325 : MsgSeqNum too high, expecting 1 but received 514
+20220812-16:38:03.325 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:38:18.229 : MsgSeqNum too high, expecting 1 but received 515
+20220812-16:38:18.229 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:38:39.402 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:38:39.406 : Session reset: ResetOnDisconnect
+20220812-16:38:39.610 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 47550382 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57036
+20220812-16:38:39.610 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:38:39.613 : Session reset: ResetOnLogon
+20220812-16:38:39.621 : Received logon
+20220812-16:38:39.623 : Responding to logon request
+20220812-16:38:39.623 : MsgSeqNum too high, expecting 1 but received 516
+20220812-16:38:39.625 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:38:48.240 : MsgSeqNum too high, expecting 1 but received 517
+20220812-16:38:48.240 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:39:16.445 : Sent test request TEST
+20220812-16:39:16.447 : MsgSeqNum too high, expecting 1 but received 518
+20220812-16:39:16.447 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:39:18.250 : MsgSeqNum too high, expecting 1 but received 519
+20220812-16:39:18.250 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:39:44.147 : Message 520 Rejected: Incorrect NumInGroup count for repeating group (Field=453)
+20220812-16:39:48.259 : MsgSeqNum too high, expecting 1 but received 521
+20220812-16:39:48.259 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:39:52.302 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:39:52.308 : Session reset: ResetOnDisconnect
+20220812-16:39:52.522 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 54498646 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57060
+20220812-16:39:52.522 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:39:52.524 : Session reset: ResetOnLogon
+20220812-16:39:52.527 : Received logon
+20220812-16:39:52.529 : Responding to logon request
+20220812-16:39:52.529 : MsgSeqNum too high, expecting 1 but received 522
+20220812-16:39:52.531 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:47:16.853 : Created session
+20220812-16:47:17.868 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57317
+20220812-16:47:17.868 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220812-16:47:17.890 : Session reset: ResetOnLogon
+20220812-16:47:17.898 : Received logon
+20220812-16:47:17.904 : Responding to logon request
+20220812-16:47:17.905 : MsgSeqNum too high, expecting 1 but received 523
+20220812-16:47:17.911 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:47:18.391 : MsgSeqNum too high, expecting 1 but received 524
+20220812-16:47:18.391 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:47:48.399 : MsgSeqNum too high, expecting 1 but received 525
+20220812-16:47:48.399 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:47:54.478 : Sent test request TEST
+20220812-16:47:54.479 : MsgSeqNum too high, expecting 1 but received 526
+20220812-16:47:54.479 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:48:18.402 : MsgSeqNum too high, expecting 1 but received 527
+20220812-16:48:18.402 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:48:24.242 : Created session
+20220812-16:48:24.380 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57337
+20220812-16:48:24.381 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220812-16:48:24.413 : Session reset: ResetOnLogon
+20220812-16:48:24.420 : Received logon
+20220812-16:48:24.425 : Responding to logon request
+20220812-16:48:24.426 : MsgSeqNum too high, expecting 1 but received 528
+20220812-16:48:24.436 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:48:48.416 : MsgSeqNum too high, expecting 1 but received 529
+20220812-16:48:48.416 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:48:51.282 : Message 530 Rejected: Incorrect NumInGroup count for repeating group (Field=453)
+20220812-16:49:01.425 : Sent test request TEST
+20220812-16:49:01.427 : MsgSeqNum too high, expecting 1 but received 531
+20220812-16:49:01.427 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:49:18.419 : MsgSeqNum too high, expecting 1 but received 532
+20220812-16:49:18.419 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:49:36.598 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:49:36.605 : Session reset: ResetOnDisconnect
+20220812-16:49:36.861 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 20057588 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57361
+20220812-16:49:36.861 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:49:36.864 : Session reset: ResetOnLogon
+20220812-16:49:36.868 : Received logon
+20220812-16:49:36.869 : Responding to logon request
+20220812-16:49:36.869 : MsgSeqNum too high, expecting 1 but received 533
+20220812-16:49:36.871 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:49:48.425 : MsgSeqNum too high, expecting 1 but received 534
+20220812-16:49:48.425 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:50:13.736 : Sent test request TEST
+20220812-16:50:13.738 : MsgSeqNum too high, expecting 1 but received 535
+20220812-16:50:13.738 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:50:18.442 : MsgSeqNum too high, expecting 1 but received 536
+20220812-16:50:18.442 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:50:48.456 : MsgSeqNum too high, expecting 1 but received 537
+20220812-16:50:48.456 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:50:49.471 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:50:49.475 : Session reset: ResetOnDisconnect
+20220812-16:50:49.684 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 63888170 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57451
+20220812-16:50:49.684 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:50:49.687 : Session reset: ResetOnLogon
+20220812-16:50:49.690 : Received logon
+20220812-16:50:49.692 : Responding to logon request
+20220812-16:50:49.692 : MsgSeqNum too high, expecting 1 but received 538
+20220812-16:50:49.694 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:51:18.462 : MsgSeqNum too high, expecting 1 but received 539
+20220812-16:51:18.462 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:51:26.537 : Sent test request TEST
+20220812-16:51:26.541 : MsgSeqNum too high, expecting 1 but received 540
+20220812-16:51:26.541 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:51:48.468 : MsgSeqNum too high, expecting 1 but received 541
+20220812-16:51:48.468 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:52:02.606 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:52:02.610 : Session reset: ResetOnDisconnect
+20220812-16:52:02.817 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 14938877 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57505
+20220812-16:52:02.817 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:52:02.821 : Session reset: ResetOnLogon
+20220812-16:52:02.825 : Received logon
+20220812-16:52:02.826 : Responding to logon request
+20220812-16:52:02.826 : MsgSeqNum too high, expecting 1 but received 542
+20220812-16:52:02.827 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:52:18.484 : MsgSeqNum too high, expecting 1 but received 543
+20220812-16:52:18.484 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:52:39.656 : Sent test request TEST
+20220812-16:52:39.660 : MsgSeqNum too high, expecting 1 but received 544
+20220812-16:52:39.660 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:52:48.487 : MsgSeqNum too high, expecting 1 but received 545
+20220812-16:52:48.487 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:53:15.751 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:53:15.755 : Session reset: ResetOnDisconnect
+20220812-16:53:15.969 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 23198906 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57527
+20220812-16:53:15.969 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:53:15.972 : Session reset: ResetOnLogon
+20220812-16:53:15.977 : Received logon
+20220812-16:53:15.982 : Responding to logon request
+20220812-16:53:15.982 : MsgSeqNum too high, expecting 1 but received 546
+20220812-16:53:15.984 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:53:18.487 : MsgSeqNum too high, expecting 1 but received 547
+20220812-16:53:18.488 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:53:48.504 : MsgSeqNum too high, expecting 1 but received 548
+20220812-16:53:48.504 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:53:52.538 : Sent test request TEST
+20220812-16:53:52.541 : MsgSeqNum too high, expecting 1 but received 549
+20220812-16:53:52.541 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:54:18.516 : MsgSeqNum too high, expecting 1 but received 550
+20220812-16:54:18.516 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:54:28.612 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:54:28.616 : Session reset: ResetOnDisconnect
+20220812-16:54:28.822 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 48027983 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57546
+20220812-16:54:28.822 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:54:28.825 : Session reset: ResetOnLogon
+20220812-16:54:28.828 : Received logon
+20220812-16:54:28.830 : Responding to logon request
+20220812-16:54:28.830 : MsgSeqNum too high, expecting 1 but received 551
+20220812-16:54:28.831 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:54:48.522 : MsgSeqNum too high, expecting 1 but received 552
+20220812-16:54:48.522 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:55:05.625 : Sent test request TEST
+20220812-16:55:05.627 : MsgSeqNum too high, expecting 1 but received 553
+20220812-16:55:05.627 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:55:18.533 : MsgSeqNum too high, expecting 1 but received 554
+20220812-16:55:18.533 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:55:41.747 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:55:41.751 : Session reset: ResetOnDisconnect
+20220812-16:55:41.960 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 2423681 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57582
+20220812-16:55:41.960 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:55:41.963 : Session reset: ResetOnLogon
+20220812-16:55:41.967 : Received logon
+20220812-16:55:41.968 : Responding to logon request
+20220812-16:55:41.968 : MsgSeqNum too high, expecting 1 but received 555
+20220812-16:55:41.969 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:55:48.533 : MsgSeqNum too high, expecting 1 but received 556
+20220812-16:55:48.533 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:56:18.548 : MsgSeqNum too high, expecting 1 but received 557
+20220812-16:56:18.548 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:56:18.548 : Sent test request TEST
+20220812-16:56:18.552 : MsgSeqNum too high, expecting 1 but received 558
+20220812-16:56:18.552 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:56:48.562 : MsgSeqNum too high, expecting 1 but received 559
+20220812-16:56:48.563 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:56:54.605 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:56:54.610 : Session reset: ResetOnDisconnect
+20220812-16:56:54.818 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 8718417 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57610
+20220812-16:56:54.818 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:56:54.823 : Session reset: ResetOnLogon
+20220812-16:56:54.833 : Received logon
+20220812-16:56:54.840 : Responding to logon request
+20220812-16:56:54.840 : MsgSeqNum too high, expecting 1 but received 560
+20220812-16:56:54.842 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:57:18.572 : MsgSeqNum too high, expecting 1 but received 561
+20220812-16:57:18.572 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:57:31.676 : Sent test request TEST
+20220812-16:57:31.679 : MsgSeqNum too high, expecting 1 but received 562
+20220812-16:57:31.679 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:57:48.577 : MsgSeqNum too high, expecting 1 but received 563
+20220812-16:57:48.577 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:58:07.730 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:58:07.734 : Session reset: ResetOnDisconnect
+20220812-16:58:07.943 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 3051477 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57656
+20220812-16:58:07.943 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:58:07.946 : Session reset: ResetOnLogon
+20220812-16:58:07.949 : Received logon
+20220812-16:58:07.950 : Responding to logon request
+20220812-16:58:07.950 : MsgSeqNum too high, expecting 1 but received 564
+20220812-16:58:07.951 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:58:18.591 : MsgSeqNum too high, expecting 1 but received 565
+20220812-16:58:18.591 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:58:44.806 : Sent test request TEST
+20220812-16:58:44.809 : MsgSeqNum too high, expecting 1 but received 566
+20220812-16:58:44.809 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:58:48.598 : MsgSeqNum too high, expecting 1 but received 567
+20220812-16:58:48.598 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:59:18.600 : MsgSeqNum too high, expecting 1 but received 568
+20220812-16:59:18.600 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:59:20.608 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-16:59:20.625 : Session reset: ResetOnDisconnect
+20220812-16:59:20.847 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 65636974 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57718
+20220812-16:59:20.847 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-16:59:20.850 : Session reset: ResetOnLogon
+20220812-16:59:20.852 : Received logon
+20220812-16:59:20.854 : Responding to logon request
+20220812-16:59:20.854 : MsgSeqNum too high, expecting 1 but received 569
+20220812-16:59:20.858 : Sent ResendRequest FROM: 1 TO: 0
+20220812-16:59:48.603 : MsgSeqNum too high, expecting 1 but received 570
+20220812-16:59:48.603 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-16:59:57.677 : Sent test request TEST
+20220812-16:59:57.681 : MsgSeqNum too high, expecting 1 but received 571
+20220812-16:59:57.681 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:00:18.606 : MsgSeqNum too high, expecting 1 but received 572
+20220812-17:00:18.606 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:00:33.771 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-17:00:33.774 : Session reset: ResetOnDisconnect
+20220812-17:00:34.007 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 56728795 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57764
+20220812-17:00:34.007 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-17:00:34.010 : Session reset: ResetOnLogon
+20220812-17:00:34.015 : Received logon
+20220812-17:00:34.017 : Responding to logon request
+20220812-17:00:34.017 : MsgSeqNum too high, expecting 1 but received 573
+20220812-17:00:34.018 : Sent ResendRequest FROM: 1 TO: 0
+20220812-17:00:48.617 : MsgSeqNum too high, expecting 1 but received 574
+20220812-17:00:48.617 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:01:10.820 : Sent test request TEST
+20220812-17:01:10.821 : MsgSeqNum too high, expecting 1 but received 575
+20220812-17:01:10.821 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:01:18.631 : MsgSeqNum too high, expecting 1 but received 576
+20220812-17:01:18.631 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:01:46.826 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-17:01:46.829 : Session reset: ResetOnDisconnect
+20220812-17:01:47.033 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 35822979 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57787
+20220812-17:01:47.033 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-17:01:47.036 : Session reset: ResetOnLogon
+20220812-17:01:47.046 : Received logon
+20220812-17:01:47.049 : Responding to logon request
+20220812-17:01:47.049 : MsgSeqNum too high, expecting 1 but received 577
+20220812-17:01:47.050 : Sent ResendRequest FROM: 1 TO: 0
+20220812-17:01:48.645 : MsgSeqNum too high, expecting 1 but received 578
+20220812-17:01:48.645 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:02:18.648 : MsgSeqNum too high, expecting 1 but received 579
+20220812-17:02:18.648 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:02:23.705 : Sent test request TEST
+20220812-17:02:23.708 : MsgSeqNum too high, expecting 1 but received 580
+20220812-17:02:23.708 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:02:48.663 : MsgSeqNum too high, expecting 1 but received 581
+20220812-17:02:48.663 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:02:59.771 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-17:02:59.812 : Session reset: ResetOnDisconnect
+20220812-17:03:00.049 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 58090260 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57825
+20220812-17:03:00.049 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-17:03:00.054 : Session reset: ResetOnLogon
+20220812-17:03:00.059 : Received logon
+20220812-17:03:00.065 : Responding to logon request
+20220812-17:03:00.066 : MsgSeqNum too high, expecting 1 but received 582
+20220812-17:03:00.081 : Sent ResendRequest FROM: 1 TO: 0
+20220812-17:03:18.676 : MsgSeqNum too high, expecting 1 but received 583
+20220812-17:03:18.676 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:03:36.813 : Sent test request TEST
+20220812-17:03:36.815 : MsgSeqNum too high, expecting 1 but received 584
+20220812-17:03:36.815 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:03:45.948 : MsgSeqNum too high, expecting 1 but received 585
+20220812-17:03:45.948 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:03:48.690 : MsgSeqNum too high, expecting 1 but received 586
+20220812-17:03:48.690 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:04:12.878 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220812-17:04:12.881 : Session reset: ResetOnDisconnect
+20220812-17:04:13.098 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 30661181 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57859
+20220812-17:04:13.098 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220812-17:04:13.100 : Session reset: ResetOnLogon
+20220812-17:04:13.104 : Received logon
+20220812-17:04:13.107 : Responding to logon request
+20220812-17:04:13.107 : MsgSeqNum too high, expecting 1 but received 587
+20220812-17:04:13.108 : Sent ResendRequest FROM: 1 TO: 0
+20220812-17:04:18.597 : MsgSeqNum too high, expecting 1 but received 588
+20220812-17:04:18.597 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:04:18.704 : MsgSeqNum too high, expecting 1 but received 589
+20220812-17:04:18.704 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:04:48.713 : MsgSeqNum too high, expecting 1 but received 590
+20220812-17:04:48.713 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:04:49.723 : Sent test request TEST
+20220812-17:04:49.726 : MsgSeqNum too high, expecting 1 but received 591
+20220812-17:04:49.726 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:05:18.730 : MsgSeqNum too high, expecting 1 but received 592
+20220812-17:05:18.730 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220812-17:05:25.807 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220813-16:01:42.364 : Session FIX.4.4:SIMPLE->CLIENT1 already disconnected: Resetting...
+20220813-16:01:42.392 : Session reset: New session
+20220813-16:01:42.979 : Created session
+20220813-16:08:46.709 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57003
+20220813-16:08:46.709 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220813-16:08:47.047 : Session reset: ResetOnLogon
+20220813-16:08:47.057 : Received logon
+20220813-16:08:47.063 : Responding to logon request
+20220813-16:08:47.064 : MsgSeqNum too high, expecting 1 but received 610
+20220813-16:08:47.069 : Sent ResendRequest FROM: 1 TO: 0
+20220813-16:08:54.789 : MsgSeqNum too high, expecting 1 but received 611
+20220813-16:08:54.789 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:09:24.052 : Sent test request TEST
+20220813-16:09:24.054 : MsgSeqNum too high, expecting 1 but received 612
+20220813-16:09:24.054 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:09:24.870 : MsgSeqNum too high, expecting 1 but received 613
+20220813-16:09:24.870 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:09:54.824 : MsgSeqNum too high, expecting 1 but received 614
+20220813-16:09:54.824 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:09:57.094 : MsgSeqNum too high, expecting 1 but received 615
+20220813-16:09:57.094 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:09:59.117 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220813-16:09:59.123 : Session reset: ResetOnDisconnect
+20220813-16:10:11.675 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 34821892 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57036
+20220813-16:10:11.675 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220813-16:10:11.678 : Session reset: ResetOnLogon
+20220813-16:10:11.681 : Received logon
+20220813-16:10:11.682 : Responding to logon request
+20220813-16:10:11.682 : MsgSeqNum too high, expecting 1 but received 616
+20220813-16:10:11.683 : Sent ResendRequest FROM: 1 TO: 0
+20220813-16:10:15.361 : MsgSeqNum too high, expecting 1 but received 617
+20220813-16:10:15.361 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:10:24.835 : MsgSeqNum too high, expecting 1 but received 618
+20220813-16:10:24.835 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:10:48.017 : Sent test request TEST
+20220813-16:10:48.018 : MsgSeqNum too high, expecting 1 but received 619
+20220813-16:10:48.018 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:10:54.846 : MsgSeqNum too high, expecting 1 but received 620
+20220813-16:10:54.846 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-16:11:24.112 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220813-16:11:24.116 : Session reset: ResetOnDisconnect
+20220813-17:29:43.192 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 18535462 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:64442
+20220813-17:29:43.192 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220813-17:29:43.195 : Session reset: ResetOnLogon
+20220813-17:29:43.200 : Received logon
+20220813-17:29:43.201 : Responding to logon request
+20220813-17:29:43.201 : MsgSeqNum too high, expecting 1 but received 621
+20220813-17:29:43.203 : Sent ResendRequest FROM: 1 TO: 0
+20220813-17:29:50.092 : MsgSeqNum too high, expecting 1 but received 622
+20220813-17:29:50.092 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-17:29:56.111 : MsgSeqNum too high, expecting 1 but received 623
+20220813-17:29:56.111 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-17:30:19.300 : Sent test request TEST
+20220813-17:30:19.303 : MsgSeqNum too high, expecting 1 but received 624
+20220813-17:30:19.303 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-17:30:26.120 : MsgSeqNum too high, expecting 1 but received 625
+20220813-17:30:26.120 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220813-17:30:55.388 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220813-17:30:55.392 : Session reset: ResetOnDisconnect
+20220815-15:51:39.339 : Session FIX.4.4:SIMPLE->CLIENT1 already disconnected: Resetting...
+20220815-15:51:39.392 : Session reset: New session
+20220815-15:51:39.915 : Created session
+20220815-15:52:12.147 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57515
+20220815-15:52:12.147 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220815-15:52:12.368 : Session reset: ResetOnLogon
+20220815-15:52:12.371 : Received logon
+20220815-15:52:12.374 : Responding to logon request
+20220815-15:52:12.374 : MsgSeqNum too high, expecting 1 but received 626
+20220815-15:52:12.377 : Sent ResendRequest FROM: 1 TO: 0
+20220815-15:52:30.298 : MsgSeqNum too high, expecting 1 but received 627
+20220815-15:52:30.298 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-15:52:38.372 : Created session
+20220815-15:54:20.206 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57640
+20220815-15:54:20.206 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220815-15:54:20.445 : Session reset: ResetOnLogon
+20220815-15:54:20.452 : Received logon
+20220815-15:54:20.457 : Responding to logon request
+20220815-15:54:20.457 : MsgSeqNum too high, expecting 1 but received 628
+20220815-15:54:20.462 : Sent ResendRequest FROM: 1 TO: 0
+20220815-15:54:30.337 : MsgSeqNum too high, expecting 1 but received 629
+20220815-15:54:30.337 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-15:54:56.622 : Sent test request TEST
+20220815-15:54:56.624 : MsgSeqNum too high, expecting 1 but received 630
+20220815-15:54:56.624 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-15:55:00.351 : MsgSeqNum too high, expecting 1 but received 631
+20220815-15:55:00.351 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-15:55:11.860 : Created session
+20220815-15:55:36.802 : Created session
+20220815-15:55:59.091 : Created session
+20220815-15:58:37.426 : Created session
+20220815-15:59:33.020 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57886
+20220815-15:59:33.020 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220815-15:59:33.241 : Session reset: ResetOnLogon
+20220815-15:59:33.429 : Received logon
+20220815-15:59:33.444 : Responding to logon request
+20220815-15:59:33.445 : MsgSeqNum too high, expecting 1 but received 632
+20220815-15:59:33.450 : Sent ResendRequest FROM: 1 TO: 0
+20220815-15:59:42.043 : MsgSeqNum too high, expecting 1 but received 633
+20220815-15:59:42.043 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:00:00.425 : MsgSeqNum too high, expecting 1 but received 634
+20220815-16:00:00.425 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:00:09.534 : Sent test request TEST
+20220815-16:00:09.538 : MsgSeqNum too high, expecting 1 but received 635
+20220815-16:00:09.538 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:00:30.429 : MsgSeqNum too high, expecting 1 but received 636
+20220815-16:00:30.429 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:00:45.585 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220815-16:00:45.590 : Session reset: ResetOnDisconnect
+20220815-16:02:04.079 : Created session
+20220815-16:02:11.130 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57899
+20220815-16:02:11.130 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220815-16:02:11.152 : Session reset: ResetOnLogon
+20220815-16:02:11.311 : Received logon
+20220815-16:02:11.324 : Responding to logon request
+20220815-16:02:11.325 : MsgSeqNum too high, expecting 1 but received 637
+20220815-16:02:11.332 : Sent ResendRequest FROM: 1 TO: 0
+20220815-16:02:22.276 : MsgSeqNum too high, expecting 1 but received 638
+20220815-16:02:22.276 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:02:30.468 : MsgSeqNum too high, expecting 1 but received 639
+20220815-16:02:30.468 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:02:47.606 : Sent test request TEST
+20220815-16:02:47.612 : MsgSeqNum too high, expecting 1 but received 640
+20220815-16:02:47.612 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:03:00.471 : MsgSeqNum too high, expecting 1 but received 641
+20220815-16:03:00.471 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:03:19.572 : Created session
+20220815-16:03:27.696 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:57915
+20220815-16:03:27.696 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220815-16:03:27.719 : Session reset: ResetOnLogon
+20220815-16:03:27.966 : Received logon
+20220815-16:03:27.988 : Responding to logon request
+20220815-16:03:27.991 : MsgSeqNum too high, expecting 1 but received 642
+20220815-16:03:28.006 : Sent ResendRequest FROM: 1 TO: 0
+20220815-16:03:30.478 : MsgSeqNum too high, expecting 1 but received 643
+20220815-16:03:30.478 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:04:00.488 : MsgSeqNum too high, expecting 1 but received 644
+20220815-16:04:00.488 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:04:04.535 : Sent test request TEST
+20220815-16:04:04.543 : MsgSeqNum too high, expecting 1 but received 645
+20220815-16:04:04.543 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:04:30.495 : MsgSeqNum too high, expecting 1 but received 646
+20220815-16:04:30.495 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:04:40.557 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220815-16:04:40.575 : Session reset: ResetOnDisconnect
+20220815-16:06:08.599 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 8181140 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:60834
+20220815-16:06:08.599 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220815-16:06:08.603 : Session reset: ResetOnLogon
+20220815-16:06:08.608 : Received logon
+20220815-16:06:08.610 : Responding to logon request
+20220815-16:06:08.610 : MsgSeqNum too high, expecting 1 but received 647
+20220815-16:06:08.611 : Sent ResendRequest FROM: 1 TO: 0
+20220815-16:06:30.539 : MsgSeqNum too high, expecting 1 but received 648
+20220815-16:06:30.539 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:06:37.470 : MsgSeqNum too high, expecting 1 but received 649
+20220815-16:06:37.470 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:06:45.539 : Sent test request TEST
+20220815-16:06:45.540 : MsgSeqNum too high, expecting 1 but received 650
+20220815-16:06:45.540 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:07:00.549 : MsgSeqNum too high, expecting 1 but received 651
+20220815-16:07:00.549 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:07:17.373 : MsgSeqNum too high, expecting 1 but received 652
+20220815-16:07:17.373 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:07:21.397 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220815-16:07:21.401 : Session reset: ResetOnDisconnect
+20220815-16:07:27.975 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 43953530 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:60839
+20220815-16:07:27.975 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 30 seconds
+20220815-16:07:27.990 : Session reset: ResetOnLogon
+20220815-16:07:27.993 : Received logon
+20220815-16:07:27.994 : Responding to logon request
+20220815-16:07:27.994 : MsgSeqNum too high, expecting 1 but received 653
+20220815-16:07:27.995 : Sent ResendRequest FROM: 1 TO: 0
+20220815-16:07:30.555 : MsgSeqNum too high, expecting 1 but received 654
+20220815-16:07:30.555 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:07:44.156 : MsgSeqNum too high, expecting 1 but received 655
+20220815-16:07:44.156 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:08:00.573 : MsgSeqNum too high, expecting 1 but received 656
+20220815-16:08:00.573 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:08:04.600 : Sent test request TEST
+20220815-16:08:04.604 : MsgSeqNum too high, expecting 1 but received 657
+20220815-16:08:04.604 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:08:31.565 : Created session
+20220815-16:08:39.255 : FIX.4.4:SIMPLE->CLIENT1 Socket Reader 59817589 accepting session FIX.4.4:SIMPLE->CLIENT1 from 127.0.0.1:60856
+20220815-16:08:39.255 : FIX.4.4:SIMPLE->CLIENT1 Acceptor heartbeat set to 0 seconds
+20220815-16:08:39.276 : Session reset: ResetOnLogon
+20220815-16:08:46.168 : Received logon
+20220815-16:08:51.498 : Responding to logon request
+20220815-16:08:51.499 : MsgSeqNum too high, expecting 1 but received 658
+20220815-16:08:55.086 : Sent ResendRequest FROM: 1 TO: 0
+20220815-16:09:00.598 : MsgSeqNum too high, expecting 1 but received 659
+20220815-16:09:00.598 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:09:04.344 : MsgSeqNum too high, expecting 1 but received 660
+20220815-16:09:04.344 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:10:45.762 : Sent test request TEST
+20220815-16:10:45.762 : MsgSeqNum too high, expecting 1 but received 661
+20220815-16:10:45.762 : Already sent ResendRequest FROM: 1 TO: 0.  Not sending another.
+20220815-16:10:45.764 : Session FIX.4.4:SIMPLE->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20220815-16:10:45.777 : Session reset: ResetOnDisconnect

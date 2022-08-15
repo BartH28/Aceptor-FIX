@@ -1,0 +1,160 @@
+20220810-16:57:20.243 : connected
+20220810-16:57:20.312 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6635=A49=CLIENT156=EXECUTOR34=152=20220810-16:57:2098=0108=3010=149
+20220810-16:57:20.372 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-16:57:20.372 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-16:57:20.372 : shutdown
+20220810-16:59:49.794 : connected
+20220810-16:59:49.845 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=6635=A49=CLIENT156=EXECUTOR34=252=20220810-16:59:4998=0108=3010=165
+20220810-16:59:49.877 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-16:59:49.878 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-16:59:49.878 : shutdown
+20220810-17:08:10.455 : connected
+20220810-17:08:53.306 : SocketReader Error: Socket exception (127.0.0.1:58780): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220810-17:08:53.307 : shutdown requested: Disconnected
+20220810-17:08:53.312 : shutdown requested: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220810-17:08:53.312 : shutdown
+20220810-22:35:41.182 : connected
+20220810-22:35:41.321 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A49=CLIENT156=SIMPLE34=2152=20220810-22:35:4198=0108=3010=029
+20220810-22:35:41.398 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-22:35:41.398 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-22:35:41.398 : shutdown
+20220810-22:36:09.455 : connected
+20220810-22:36:09.509 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A49=CLIENT156=SIMPLE34=2352=20220810-22:36:0998=0108=3010=036
+20220810-22:36:09.597 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-22:36:09.598 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-22:36:09.598 : shutdown
+20220810-22:49:03.952 : connected
+20220810-22:49:04.012 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A49=CLIENT156=SIMPLE34=2552=20220810-22:49:0398=0108=3010=036
+20220810-22:49:04.070 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-22:49:04.109 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-22:49:04.109 : shutdown
+20220810-22:55:33.700 : connected
+20220810-22:55:33.755 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A49=CLIENT156=SIMPLE34=2652=20220810-22:55:3398=0108=3010=037
+20220810-22:55:33.791 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-22:55:33.791 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-22:55:33.791 : shutdown
+20220810-22:56:22.291 : connected
+20220810-22:56:22.341 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.29=6535=A49=CLIENT156=SIMPLE34=2752=20220810-22:56:2298=0108=3010=037
+20220810-22:56:22.367 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220810-22:56:22.367 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220810-22:56:22.367 : shutdown
+20220810-22:58:18.663 : connected
+20220810-22:59:13.001 : connected
+20220810-22:59:27.033 : shutdown requested: reactor is shutting down
+20220810-22:59:27.234 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'FileLog'.
+   em QuickFix.FileLog.DisposedCheck()
+   em QuickFix.FileLog.OnEvent(String s)
+   em QuickFix.Session.Next()
+   em QuickFix.SocketReader.Read()
+20220810-22:59:27.234 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'FileLog'.
+20220810-22:59:27.234 : shutdown
+20220810-22:59:36.493 : connected
+20220810-23:00:49.656 : shutdown requested: Disconnected
+20220810-23:00:49.671 : shutdown
+20220810-23:34:19.921 : connected
+20220810-23:40:33.412 : connected
+20220810-23:41:47.217 : connected
+20220810-23:43:00.536 : shutdown requested: Disconnected
+20220810-23:43:00.540 : shutdown
+20220810-23:53:22.376 : connected
+20220810-23:54:34.775 : shutdown requested: Disconnected
+20220810-23:54:34.788 : shutdown
+20220810-23:55:33.178 : connected
+20220810-23:56:45.682 : shutdown requested: Disconnected
+20220810-23:56:45.687 : shutdown
+20220811-00:07:41.207 : connected
+20220811-00:08:11.368 : connected
+20220811-00:08:54.420 : connected
+20220811-00:10:07.112 : shutdown requested: Disconnected
+20220811-00:10:07.119 : shutdown
+20220811-00:10:27.086 : connected
+20220811-00:11:33.258 : connected
+20220811-00:12:45.955 : shutdown requested: Disconnected
+20220811-00:12:45.962 : shutdown
+20220811-16:06:27.762 : connected
+20220811-16:07:40.022 : shutdown requested: Disconnected
+20220811-16:07:40.026 : shutdown
+20220811-19:50:47.805 : connected
+20220811-19:54:11.268 : connected
+20220811-19:55:23.749 : shutdown requested: Disconnected
+20220811-19:55:23.754 : shutdown
+20220811-21:10:01.977 : connected
+20220811-21:11:14.948 : shutdown requested: Disconnected
+20220811-21:11:14.952 : shutdown
+20220811-21:13:18.309 : connected
+20220811-21:14:31.103 : shutdown requested: Disconnected
+20220811-21:14:31.107 : shutdown
+20220811-21:27:59.667 : connected
+20220811-21:28:37.449 : SocketReader Error: Socket exception (127.0.0.1:49315): Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220811-21:28:37.450 : shutdown requested: Disconnected
+20220811-21:28:37.455 : shutdown requested: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20220811-21:28:37.455 : shutdown
+20220811-21:29:38.029 : connected
+20220811-21:30:50.323 : shutdown requested: Disconnected
+20220811-21:30:50.337 : shutdown
+20220812-16:08:59.868 : connected
+20220812-16:10:12.879 : shutdown requested: Disconnected
+20220812-16:10:12.882 : shutdown
+20220812-16:12:53.306 : connected
+20220812-16:13:44.066 : connected
+20220812-16:14:56.637 : shutdown requested: Disconnected
+20220812-16:15:03.404 : shutdown
+20220812-16:20:50.185 : connected
+20220812-16:22:03.034 : shutdown requested: Disconnected
+20220812-16:22:03.039 : shutdown
+20220812-16:47:17.359 : connected
+20220812-16:48:24.297 : connected
+20220812-16:49:36.598 : shutdown requested: Disconnected
+20220812-16:49:36.605 : shutdown
+20220813-16:08:46.650 : connected
+20220813-16:09:59.117 : shutdown requested: Disconnected
+20220813-16:09:59.123 : shutdown
+20220815-15:52:12.064 : connected
+20220815-15:54:20.169 : connected
+20220815-15:59:32.978 : connected
+20220815-16:00:45.585 : shutdown requested: Disconnected
+20220815-16:00:45.590 : shutdown
+20220815-16:02:11.059 : connected
+20220815-16:03:27.618 : connected
+20220815-16:04:40.557 : shutdown requested: Disconnected
+20220815-16:04:40.575 : shutdown
+20220815-16:08:39.186 : connected
+20220815-16:10:45.764 : shutdown requested: Disconnected
+20220815-16:10:45.777 : shutdown
