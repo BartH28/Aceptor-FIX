@@ -21,3 +21,13 @@
 20220812-16:52:02.768 : connected
 20220812-16:53:15.751 : shutdown requested: Disconnected
 20220812-16:53:15.755 : shutdown
+20220815-16:54:17.462 : connected
+20220815-16:54:17.514 : ERROR: Disconnecting; received message for unknown session: 8=FIX.4.49=6635=A49=SIMPLE56=CLIENT134=67852=20220815-16:54:1798=0108=3010=110
+20220815-16:54:17.515 : SocketReader Error: System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+   em System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   em QuickFix.SocketReader.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   em QuickFix.SocketReader.Read()
+20220815-16:54:17.515 : shutdown requested: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.NetworkStream'.
+20220815-16:54:17.515 : shutdown
